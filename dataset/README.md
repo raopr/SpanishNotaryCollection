@@ -1,4 +1,3 @@
-# Dataset
 # 17th Century American Spanish Notary Dataset
 
 This repository contains a dataset of images from 17th century American Spanish notary documents. The dataset is organized into two directories: `images` and `xml`. The `images`.
