@@ -7,6 +7,7 @@ Directory contains the actual images of the documents, and the `xml` directory c
 
 - `images/`: Contains the scanned images of 17th century American Spanish notary documents.
 - `xml/`: Contains the XML files with annotations corresponding to each image, created using the ImgLabel software.
+- `Labeled Data`: This JSON file contians all information related to the images with the containts and classes.
 
 ## Viewing Annotations
 
