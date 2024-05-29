@@ -1,13 +1,13 @@
 # 17th Century American Spanish Notary Dataset
 
 This repository contains a dataset of images from 17th century American Spanish notary documents. The dataset is organized into two directories: `images` and `xml`. And JSON file `Labeled Data` which is in JSON formate. The `images`.
-Directory contains the actual images of the documents, and the `xml` directory contains the annotations for these images, and the JSON file contians all information related to the images with the containts and classes which is annotated and extracted using the labelImg software.
+Directory contains the actual images of the documents, and the `xml` directory contains the annotations for these images, and the JSON file contians all information related to the images with the contents and classes which is annotated and extracted using the labelImg software.
 
 ## Dataset Structure
 
 - `images/`: Contains the scanned images of 17th century American Spanish notary documents.
 - `xml/`: Contains the XML files with annotations corresponding to each image, created using the ImgLabel software.
-- `Labeled Data`: This JSON file contians all information related to the images with the containts and classes.
+- `Labeled Data`: This JSON file contians all information related to the images with the contents and classes.
 
 ## Viewing Annotations
 
