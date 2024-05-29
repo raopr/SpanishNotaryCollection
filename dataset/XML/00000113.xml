@@ -1,0 +1,26 @@
+<annotation>
+	<folder>SPANRTD_Images</folder>
+	<filename>00000113.jpg</filename>
+	<path>C:\Users\Tamim\OneDrive\Desktop\KGSAR_Annotation\SPANRTD_Images\00000113.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5096</width>
+		<height>3296</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>R38,Img113</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>872</xmin>
+			<ymin>237</ymin>
+			<xmax>2509</xmax>
+			<ymax>517</ymax>
+		</bndbox>
+	</object>
+</annotation>
