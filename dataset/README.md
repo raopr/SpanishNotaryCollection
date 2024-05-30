@@ -19,5 +19,4 @@ To view the annotations, you can use the labelImg software. Follow these steps t
 3.To view the annotations in the LabelImg software, make sure that the scanned images and their corresponding XML files are in the same directory, as organized in the images directory. The annotations will looks like this:
 
 
-<img width="958" alt="LabelImg" src="https://github.com/raopr/SpanishNotaryCollection/assets/58792703/a19ab82d-e06e-4844-b965-965f0c85dae0">
-
+<img width="959" alt="Annotation_img" src="https://github.com/raopr/SpanishNotaryCollection/assets/58792703/14c8dd22-4ac7-41a5-96d7-bde753d231f7">
