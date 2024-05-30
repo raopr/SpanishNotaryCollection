@@ -4,7 +4,7 @@ This repository contains a dataset of images from 17th century American Spanish 
 
 ## Dataset Structure
 
-- `image/`: Contains the scanned images and the xml files of 17th century American Spanish notary documents.
+- `images/`: Contains the scanned images and the xml files of 17th century American Spanish notary documents.
 - `Labeled Data`: This JSON file contians all information related to the images with the contents and classes.
 
 ## Viewing Annotations
@@ -16,7 +16,7 @@ To view the annotations, you can use the labelImg software. Follow these steps t
    ```bash
    git clone https://github.com/raopr/SpanishNotaryCollection.git
 
-3.To view the annotations in the LabelImg software, make sure that the scanned images and their corresponding XML files are in the same directory, as organized in the image directory. The annotations will looks like this:
+3.To view the annotations in the LabelImg software, make sure that the scanned images and their corresponding XML files are in the same directory, as organized in the images directory. The annotations will looks like this:
 
 
 <img width="958" alt="LabelImg" src="https://github.com/raopr/SpanishNotaryCollection/assets/58792703/a19ab82d-e06e-4844-b965-965f0c85dae0">
