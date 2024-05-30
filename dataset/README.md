@@ -13,7 +13,7 @@ Directory contains the actual images of the documents, and the `xml` directory c
 
 To view the annotations, you can use the labelImg software. Follow these steps to load the dataset and view the annotations:
 
-1. Download and install [ImgLabel](https://github.com/HumanSignal/labelImg).
+1. Download and install [LabelImg](https://github.com/HumanSignal/labelImg).
 2. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/raopr/SpanishNotaryCollection.git
