@@ -16,7 +16,8 @@ To view the annotations, you can use the labelImg software. Follow these steps t
    ```bash
    git clone https://github.com/raopr/SpanishNotaryCollection.git
 
-3.To view the annotations in the LabelImg software, make sure that the scanned images and their corresponding XML files are in the same directory, as organized in the images directory. The annotations will looks like this:
+  
+3. The main page of LabelImg will look like the image shown below. At the beginning, you have to set the directory where your images and XML files are saved. After that, you need to set the directory where changes will be saved. To view the annotations in the LabelImg software, make sure that the scanned images and their corresponding XML files are in the same directory, as organized in the images directory. The annotations will look like the image below. The bounding boxes with the green circles in the corners represent the labeling or annotation process we performed.
 
 
 <img width="959" alt="Annotation_img" src="https://github.com/raopr/SpanishNotaryCollection/assets/58792703/14c8dd22-4ac7-41a5-96d7-bde753d231f7">
