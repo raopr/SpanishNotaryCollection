@@ -23,12 +23,12 @@ SANRlite had 162 pages containing 900+ sentences. Each sentence (or a group of s
 
 ## Download
 
-|              |                  Model and Tokenizer links                   |
+|              |                  Model                   |                  Tokenizer                  |
 |:------------:|:--------------------------------------------------------------:|
-| SANR Classification Model | [Model and Tokenizer](https://mailmissouri-my.sharepoint.com/:f:/g/personal/sscx3_umsystem_edu/ErF35ROATexLi2I8uWCwfZkBiAcddCwvkTboP1mvLn1I2g?e=aUyGRu) |
-| SANR Masked Language Model | [Model and Tokenizer](https://mailmissouri-my.sharepoint.com/:f:/g/personal/sscx3_umsystem_edu/EsaBZhFY5thDuJD_9wRIo-MBlni9cJY51y4HsW0iiLeMkA?e=RdoEze)  |
+| SANR Classification Model | [Model](https://mailmissouri-my.sharepoint.com/:f:/g/personal/sscx3_umsystem_edu/Em6J8fzd4KxLtVMo4YtoPywBn8OcPcG4NW1upggdcIJ5Cw?e=Gkud58) | [Tokenizer](https://mailmissouri-my.sharepoint.com/:f:/g/personal/sscx3_umsystem_edu/EkFVNqwHpDVOuFYT3hrxEEgBsG7ItzPm2NiMlbF5C1TxEQ?e=TZgkUC) |
+| SANR Masked Language Model | [Model](https://mailmissouri-my.sharepoint.com/:f:/g/personal/sscx3_umsystem_edu/El2jWbHfDs1Jtb0-bLA4BGgBCbBL_xAJ4ro65JCsCsILPg?e=j1efVP)  | [Tokenizer](https://mailmissouri-my.sharepoint.com/:f:/g/personal/sscx3_umsystem_edu/EhVwk6WAcudGsvaATfGAakEB3ccN6K4DMjl8e6Mew1zBSg?e=lYlCtY) |
 
-If you wish to download and use the model and tokenizer, please follow the steps mentioned in the [model_readme](model/model-README.md).
+If you wish to download and use the model and tokenizer, please follow the steps mentioned in the [model_readme.md](model/model-README.md).
 
 
 # Acknowlegdement
