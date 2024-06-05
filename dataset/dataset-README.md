@@ -28,3 +28,6 @@ Below are some sample images from rollos 40 and 38:
 
 <img width="565" alt="rollo" src="https://github.com/raopr/SpanishNotaryCollection/assets/58792703/9f40fdcc-f8ed-443b-afda-866aec771730">
 
+
+<img width="568" alt="Rolloss" src="https://github.com/raopr/SpanishNotaryCollection/assets/58792703/30880d76-b0f1-4743-8b2f-6ac0dfe22182">
+
