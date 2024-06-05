@@ -21,3 +21,10 @@ To view the annotations, you can use the labelImg software. Follow these steps t
 
 
 <img width="959" alt="Annotation_img" src="https://github.com/raopr/SpanishNotaryCollection/assets/58792703/14c8dd22-4ac7-41a5-96d7-bde753d231f7">
+
+
+## Sample of Rollos
+Below are some sample images from rollos 40 and 38:
+
+<img width="565" alt="rollo" src="https://github.com/raopr/SpanishNotaryCollection/assets/58792703/9f40fdcc-f8ed-443b-afda-866aec771730">
+
