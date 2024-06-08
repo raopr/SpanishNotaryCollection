@@ -12,12 +12,11 @@ This will walk you through the steps to use the model and tokenizer that we have
 
 Install the required libraries using pip:
 
-    ```python
     pip install torch
     pip install pytorch-lightning
     pip install transformers
 
-## Usage 
+## Usage for Masked Language Model 
 
 1. **Download the Model Files**:
 
@@ -39,4 +38,36 @@ Install the required libraries using pip:
     ```python
     with torch.no_grad():
         outputs = model(**tokenizer_input)
+
+## Usage for Classification Model 
+
+1. **Instantiate the Lightning Module**:
+
+   In your python script or notebook, import required modules and define a Lightning Module for the fine-tuned model:
+
+
+   ```python
+   import torch
+   import pytorch_lightning as pl
+   from transformers import AutoModelForSequenceClassification
+
+   class YourModel(pl.LightningModule):
+    def __init__(self):
+      super().__init__()
+      self.model = AutoModelForSequenceClassification.from_pretrained('path_to_model_directory')
+
+    def forward(self, input_data):
+        return self.model(input_data)
+
+
+2. **Run Inference**:
+
+    Create an instance of the Lightning Module abd feed the input data to it to inference:
+   
+    ```python
+    input_data = ...  # Your input data
+    model = YourModel.load_from_checkpoint('path_to_checkpoint')
+    output = model(input_data)
+
+    print(output)
 
