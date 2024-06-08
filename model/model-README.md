@@ -27,11 +27,11 @@ Install the required libraries using pip:
    In your Python script or notebook, import the required modules and instantiate the tokenizer and model using the downloaded files:
 
    ```python
-   from transformers import AutoTokenizer, AutoModelForSequenceClassification
+   from transformers import AutoModelForMaskedLM, AutoTokenizer
    
    # Replace 'path_to_model_directory' with the path where you downloaded the model files.
    tokenizer = AutoTokenizer.from_pretrained('path_to_model_directory')
-   model = AutoModelForSequenceClassification.from_pretrained('path_to_model_directory')
+   model = AutoModelForMaskedLM.from_pretrained('path_to_model_directory')
 
 2. **Feed Tokenizer Input to the Model**:
 
@@ -49,12 +49,12 @@ Install the required libraries using pip:
    ```python
    import torch
    import pytorch_lightning as pl
-   from transformers import AutoModelForSequenceClassification
+   from transformers import BertModel, BertTokenizer
 
    class YourModel(pl.LightningModule):
     def __init__(self):
       super().__init__()
-      self.model = AutoModelForSequenceClassification.from_pretrained('path_to_model_directory')
+      self.model = BertModel.from_pretrained('path_to_model_directory')
 
     def forward(self, input_data):
         return self.model(input_data)
