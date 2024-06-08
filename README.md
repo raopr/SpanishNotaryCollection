@@ -12,7 +12,7 @@ fine-tune Spanish LLMs for tasks such as classification and masked language mode
 1. [Dataset](#dataset)
 2. [Model](#model)
 3. [Acknowledgements](#acknowledgement)
-4. [Contact](#contact)
+
 
 # Dataset 
 
@@ -23,7 +23,7 @@ SANRlite had 162 pages containing 900+ sentences. Each sentence (or a group of s
 
 ## Download
 
-|              |                  Model                   |                  Tokenizer                  |
+|                          |                  Model                   |                  Tokenizer                  |
 |:------------:|:----------------------------------------:|:-------------------------------------------:|
 | SANR Classification Model | [Model](https://mailmissouri-my.sharepoint.com/:f:/g/personal/sscx3_umsystem_edu/Em6J8fzd4KxLtVMo4YtoPywBn8OcPcG4NW1upggdcIJ5Cw?e=Gkud58) | [Tokenizer](https://mailmissouri-my.sharepoint.com/:f:/g/personal/sscx3_umsystem_edu/EkFVNqwHpDVOuFYT3hrxEEgBsG7ItzPm2NiMlbF5C1TxEQ?e=TZgkUC) |
 | SANR Masked Language Model | [Model](https://mailmissouri-my.sharepoint.com/:f:/g/personal/sscx3_umsystem_edu/El2jWbHfDs1Jtb0-bLA4BGgBCbBL_xAJ4ro65JCsCsILPg?e=j1efVP)  | [Tokenizer](https://mailmissouri-my.sharepoint.com/:f:/g/personal/sscx3_umsystem_edu/EhVwk6WAcudGsvaATfGAakEB3ccN6K4DMjl8e6Mew1zBSg?e=lYlCtY) |
