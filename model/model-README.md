@@ -1,15 +1,27 @@
 # Model Usage Guideline
 This will walk you through the steps to use the model and tokenizer that we have provided.
 
-# Masked Language Model
+## Requirements
 
+1. Python 3.x
+2. Pytorch
+3. Pytorch Lightning
+4. Transformes Library from Hugging Face
+
+## Installation
+
+Install the required libraries using pip:
+
+    ```python
+    pip install torch
+    pip install pytorch-lightning
+    pip install transformers
+
+## Usage 
 
 1. **Download the Model Files**:
 
-   Download the fine-tuned model's weights and tokenizer configuration files. Ensure that you have the following files:
-   - `config.json`: Configuration file for the tokenizer and model.
-   - `pytorch_model.bin`: Pretrained model weights file.
-   - `special_tokens_map.json` (optional): File containing special tokens mapping if applicable.
+   Download the fine-tuned model's weights and tokenizer configuration files. 
 
 2. **Instantiate the Tokenizer and Model**:
 
@@ -27,3 +39,4 @@ This will walk you through the steps to use the model and tokenizer that we have
     ```python
     with torch.no_grad():
         outputs = model(**tokenizer_input)
+
