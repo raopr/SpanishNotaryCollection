@@ -1,8 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
 <annotation>
-	<folder>SPANRTD_Images</folder>
+	<folder>Images</folder>
 	<filename>105.jpg</filename>
-	<path>105.jpg</path>
+	<path>/Users/griecov/SpanishNotaryCollection/dataset/Images/105.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -13,75 +12,195 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>R38,Img105_1</name>
+		<name>R38,Img105_Notificatio name and place of residence of parties</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>910</xmin>
+			<xmin>916</xmin>
 			<ymin>188</ymin>
 			<xmax>2531</xmax>
-			<ymax>876</ymax>
+			<ymax>680</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>R38,Img105_2</name>
+		<name>R38,Img105_Expositio</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>819</xmin>
-			<ymin>763</ymin>
-			<xmax>2536</xmax>
-			<ymax>1599</ymax>
+			<xmin>852</xmin>
+			<ymin>1007</ymin>
+			<xmax>2530</xmax>
+			<ymax>1491</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>R38,Img105_3</name>
+		<name>R38,Img105_Dispositio</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>847</xmin>
-			<ymin>1504</ymin>
-			<xmax>2529</xmax>
-			<ymax>2054</ymax>
+			<xmin>856</xmin>
+			<ymin>1428</ymin>
+			<xmax>2541</xmax>
+			<ymax>1705</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>R38,Img105_4</name>
+		<name>R38,Img105_Header</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>447</xmin>
 			<ymin>2442</ymin>
-			<xmax>2536</xmax>
-			<ymax>3149</ymax>
+			<xmax>875</xmax>
+			<ymax>2964</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>R38,Img105_5</name>
+		<name>R38,Img105_Disallowance</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2899</xmin>
-			<ymin>135</ymin>
-			<xmax>4608</xmax>
-			<ymax>1106</ymax>
+			<xmin>2916</xmin>
+			<ymin>723</ymin>
+			<xmax>4586</xmax>
+			<ymax>993</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>R38,Img105_6</name>
+		<name>R38,Img105_Validatio</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2835</xmin>
+			<xmin>2824</xmin>
 			<ymin>998</ymin>
-			<xmax>4615</xmax>
-			<ymax>1691</ymax>
+			<xmax>4595</xmax>
+			<ymax>1134</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img105_Header</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>420</xmin>
+			<ymin>207</ymin>
+			<xmax>905</xmax>
+			<ymax>659</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img105_Circumstance of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>873</xmin>
+			<ymin>700</ymin>
+			<xmax>2518</xmax>
+			<ymax>984</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img105_Reassurance date and place</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>864</xmin>
+			<ymin>1716</ymin>
+			<xmax>2514</xmax>
+			<ymax>2070</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img105_Date and place</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>914</xmin>
+			<ymin>2475</ymin>
+			<xmax>2427</xmax>
+			<ymax>2695</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img105_Reassurance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>909</xmin>
+			<ymin>2702</ymin>
+			<xmax>2466</xmax>
+			<ymax>2902</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img105_Intitulatio and amount involved</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>898</xmin>
+			<ymin>2916</ymin>
+			<xmax>2507</xmax>
+			<ymax>3120</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img105_Circumstance of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2900</xmin>
+			<ymin>1118</ymin>
+			<xmax>4523</xmax>
+			<ymax>1320</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img105_Validatio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2945</xmin>
+			<ymin>1295</ymin>
+			<xmax>4557</xmax>
+			<ymax>1655</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img105_Signatures</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2861</xmin>
+			<ymin>1677</ymin>
+			<xmax>4570</xmax>
+			<ymax>2561</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img105_Name occupation and residence of parties</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2875</xmin>
+			<ymin>145</ymin>
+			<xmax>4595</xmax>
+			<ymax>705</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,8 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
 <annotation>
-	<folder>SPANRTD_Images</folder>
+	<folder>Images</folder>
 	<filename>33.jpg</filename>
-	<path>33</path>
+	<path>/Users/griecov/SpanishNotaryCollection/dataset/Images/33.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -13,51 +12,135 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>R38,Img33_1</name>
+		<name>R38,Img33_Disallowance</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>688</xmin>
 			<ymin>213</ymin>
-			<xmax>2424</xmax>
-			<ymax>1777</ymax>
+			<xmax>2442</xmax>
+			<ymax>667</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>R38,Img33_2</name>
+		<name>R38,Img33_Circumstance of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>649</xmin>
-			<ymin>1782</ymin>
-			<xmax>2430</xmax>
-			<ymax>3071</ymax>
+			<xmin>669</xmin>
+			<ymin>1796</ymin>
+			<xmax>2427</xmax>
+			<ymax>2258</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>R38,Img33_3</name>
+		<name>R38,Img33_Reassurance</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2843</xmin>
+			<xmin>2773</xmin>
 			<ymin>118</ymin>
 			<xmax>4699</xmax>
-			<ymax>1602</ymax>
+			<ymax>931</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>R38,Img33_4</name>
+		<name>R38,Img33_Disallowance</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2857</xmin>
-			<ymin>1471</ymin>
-			<xmax>4707</xmax>
-			<ymax>3005</ymax>
+			<xmin>2776</xmin>
+			<ymin>929</ymin>
+			<xmax>4740</xmax>
+			<ymax>1867</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img33_Circumstance of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>698</xmin>
+			<ymin>678</ymin>
+			<xmax>2436</xmax>
+			<ymax>971</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img33_Disallowance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>689</xmin>
+			<ymin>1000</ymin>
+			<xmax>2464</xmax>
+			<ymax>1209</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img33_Binding clause</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>698</xmin>
+			<ymin>1236</ymin>
+			<xmax>2400</xmax>
+			<ymax>1798</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img33_Binding clause</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>700</xmin>
+			<ymin>2276</ymin>
+			<xmax>2467</xmax>
+			<ymax>2720</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img33_Reassurance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>711</xmin>
+			<ymin>2756</ymin>
+			<xmax>2487</xmax>
+			<ymax>3113</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img33_Circumstance of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2891</xmin>
+			<ymin>1893</ymin>
+			<xmax>4691</xmax>
+			<ymax>2593</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img33_Reassurance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2884</xmin>
+			<ymin>2616</ymin>
+			<xmax>4733</xmax>
+			<ymax>3013</ymax>
 		</bndbox>
 	</object>
 </annotation>

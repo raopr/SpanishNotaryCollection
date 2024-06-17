@@ -1,8 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
 <annotation>
-	<folder>images</folder>
+	<folder>Images</folder>
 	<filename>185.jpg</filename>
-	<path>185.jpg</path>
+	<path>/Users/griecov/SpanishNotaryCollection/dataset/Images/185.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -13,87 +12,147 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>185-1</name>
+		<name>185_Binding clause</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>772</xmin>
-			<ymin>182</ymin>
+			<xmin>769</xmin>
+			<ymin>174</ymin>
 			<xmax>2459</xmax>
-			<ymax>1482</ymax>
+			<ymax>869</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>185-2</name>
+		<name>185_Binding clause</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>728</xmin>
-			<ymin>1459</ymin>
-			<xmax>2554</xmax>
-			<ymax>2269</ymax>
+			<xmin>779</xmin>
+			<ymin>887</ymin>
+			<xmax>2482</xmax>
+			<ymax>1477</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>185-3-1</name>
+		<name>185_Binding clause</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>795</xmin>
-			<ymin>2236</ymin>
-			<xmax>2503</xmax>
-			<ymax>3100</ymax>
+			<xmin>790</xmin>
+			<ymin>1488</ymin>
+			<xmax>2494</xmax>
+			<ymax>2274</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>185-3-2</name>
+		<name>185_Expositio</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>2979</xmin>
 			<ymin>156</ymin>
-			<xmax>3910</xmax>
-			<ymax>323</ymax>
+			<xmax>4662</xmax>
+			<ymax>690</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>185-4-1</name>
+		<name>185_Binding clause</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>3933</xmin>
-			<ymin>138</ymin>
-			<xmax>4679</xmax>
-			<ymax>326</ymax>
+			<xmin>2974</xmin>
+			<ymin>705</ymin>
+			<xmax>4672</xmax>
+			<ymax>1018</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>185-4-2</name>
+		<name>185_Value of transaction</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2941</xmin>
-			<ymin>318</ymin>
-			<xmax>4679</xmax>
-			<ymax>1613</ymax>
+			<xmin>2961</xmin>
+			<ymin>1028</ymin>
+			<xmax>4654</xmax>
+			<ymax>1577</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>185-5</name>
+		<name>185_Type of transaction_bond</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2900</xmin>
-			<ymin>1595</ymin>
-			<xmax>4738</xmax>
-			<ymax>3123</ymax>
+			<xmin>2925</xmin>
+			<ymin>1615</ymin>
+			<xmax>4682</xmax>
+			<ymax>1869</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>185_Binding clause</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>788</xmin>
+			<ymin>1486</ymin>
+			<xmax>2492</xmax>
+			<ymax>2272</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>185_Binding clause</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>786</xmin>
+			<ymin>1484</ymin>
+			<xmax>2490</xmax>
+			<ymax>2270</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>185_Binding clause</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>810</xmin>
+			<ymin>2323</ymin>
+			<xmax>2490</xmax>
+			<ymax>3026</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>185_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2959</xmin>
+			<ymin>1964</ymin>
+			<xmax>4674</xmax>
+			<ymax>2523</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>185_Binding clause</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3000</xmin>
+			<ymin>2515</ymin>
+			<xmax>4646</xmax>
+			<ymax>2987</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,8 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
 <annotation>
-	<folder>images</folder>
+	<folder>Images</folder>
 	<filename>202.jpg</filename>
-	<path>202.jpg</path>
+	<path>/Users/griecov/SpanishNotaryCollection/dataset/Images/202.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -13,135 +12,195 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>202-1-1</name>
+		<name>202_Circumstance of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>765</xmin>
 			<ymin>224</ymin>
-			<xmax>2545</xmax>
-			<ymax>1641</ymax>
+			<xmax>2513</xmax>
+			<ymax>524</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>202-1-2</name>
+		<name>202_Disallowance</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>833</xmin>
-			<ymin>1647</ymin>
-			<xmax>1394</xmax>
-			<ymax>1767</ymax>
+			<xmin>761</xmin>
+			<ymin>527</ymin>
+			<xmax>2510</xmax>
+			<ymax>890</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>202-3-1</name>
+		<name>202_Disallowance</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1416</xmin>
-			<ymin>1612</ymin>
-			<xmax>2461</xmax>
-			<ymax>1729</ymax>
+			<xmin>812</xmin>
+			<ymin>906</ymin>
+			<xmax>2517</xmax>
+			<ymax>1342</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>202-3-2</name>
+		<name>202_Delegation of Authority</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>739</xmin>
-			<ymin>1716</ymin>
-			<xmax>2508</xmax>
-			<ymax>2906</ymax>
+			<xmin>794</xmin>
+			<ymin>1357</ymin>
+			<xmax>2470</xmax>
+			<ymax>1745</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>202-4-1</name>
+		<name>202_Binding clause</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>853</xmin>
-			<ymin>2896</ymin>
-			<xmax>2506</xmax>
-			<ymax>3186</ymax>
+			<xmin>817</xmin>
+			<ymin>2198</ymin>
+			<xmax>2483</xmax>
+			<ymax>2644</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>202-4-2</name>
+		<name>202_Penalty</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>2955</xmin>
 			<ymin>168</ymin>
-			<xmax>4691</xmax>
-			<ymax>1255</ymax>
+			<xmax>4658</xmax>
+			<ymax>740</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>202-5-1</name>
+		<name>202_Binding clause</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>3427</xmin>
-			<ymin>1131</ymin>
+			<xmin>2947</xmin>
+			<ymin>745</ymin>
 			<xmax>4665</xmax>
-			<ymax>1233</ymax>
+			<ymax>1120</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>202-6-1</name>
+		<name>202_Dissalowance</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2884</xmin>
-			<ymin>1222</ymin>
-			<xmax>4657</xmax>
-			<ymax>2200</ymax>
+			<xmin>2897</xmin>
+			<ymin>1133</ymin>
+			<xmax>4645</xmax>
+			<ymax>1438</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>202-6-2</name>
+		<name>202_Binding clause</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2939</xmin>
-			<ymin>2202</ymin>
-			<xmax>3684</xmax>
-			<ymax>2347</ymax>
+			<xmin>2886</xmin>
+			<ymin>1454</ymin>
+			<xmax>4665</xmax>
+			<ymax>1726</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>202-7-1</name>
+		<name>202_Binding Clause</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>3696</xmin>
-			<ymin>2196</ymin>
+			<xmin>2946</xmin>
+			<ymin>1736</ymin>
+			<xmax>4640</xmax>
+			<ymax>2029</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>202_Date and place</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2968</xmin>
+			<ymin>2035</ymin>
+			<xmax>4656</xmax>
+			<ymax>2237</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>202_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>769</xmin>
+			<ymin>1760</ymin>
+			<xmax>2485</xmax>
+			<ymax>2187</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>202_Binding clause</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>838</xmin>
+			<ymin>2610</ymin>
+			<xmax>2503</xmax>
+			<ymax>3083</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>202_Validation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2990</xmin>
+			<ymin>2256</ymin>
+			<xmax>4649</xmax>
+			<ymax>2517</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>202_Validation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2988</xmin>
+			<ymin>2521</ymin>
 			<xmax>4651</xmax>
-			<ymax>2337</ymax>
+			<ymax>2883</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>202-7-2</name>
+		<name>202_Disallowance</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2896</xmin>
-			<ymin>2288</ymin>
-			<xmax>4624</xmax>
-			<ymax>3169</ymax>
+			<xmin>2974</xmin>
+			<ymin>2892</ymin>
+			<xmax>4626</xmax>
+			<ymax>3163</ymax>
 		</bndbox>
 	</object>
 </annotation>

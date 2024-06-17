@@ -1,8 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
 <annotation>
-	<folder>images</folder>
+	<folder>Images</folder>
 	<filename>211.jpg</filename>
-	<path>211.jpg</path>
+	<path>/Users/griecov/SpanishNotaryCollection/dataset/Images/211.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -13,91 +12,91 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>211-1-1</name>
+		<name>211_Reassurance</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>871</xmin>
-			<ymin>222</ymin>
-			<xmax>2518</xmax>
-			<ymax>1859</ymax>
+			<xmin>908</xmin>
+			<ymin>231</ymin>
+			<xmax>2541</xmax>
+			<ymax>624</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>211-1-2</name>
+		<name>211_Binding clause</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>845</xmin>
-			<ymin>1853</ymin>
-			<xmax>2237</xmax>
-			<ymax>1965</ymax>
+			<xmin>902</xmin>
+			<ymin>826</ymin>
+			<xmax>2517</xmax>
+			<ymax>1401</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>211-2-1</name>
+		<name>211_Binding clause</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2294</xmin>
-			<ymin>1855</ymin>
-			<xmax>2553</xmax>
-			<ymax>1971</ymax>
+			<xmin>887</xmin>
+			<ymin>1765</ymin>
+			<xmax>2534</xmax>
+			<ymax>1979</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>211-2-2</name>
+		<name>211_Reassurance_amount of transaction</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>802</xmin>
-			<ymin>1935</ymin>
-			<xmax>2563</xmax>
-			<ymax>2780</ymax>
+			<xmin>888</xmin>
+			<ymin>1977</ymin>
+			<xmax>2552</xmax>
+			<ymax>2274</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>211-2-3</name>
+		<name>211_Validation</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>837</xmin>
-			<ymin>2763</ymin>
-			<xmax>1061</xmax>
-			<ymax>2882</ymax>
+			<xmin>908</xmin>
+			<ymin>2539</ymin>
+			<xmax>2530</xmax>
+			<ymax>2986</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>211-3-1</name>
+		<name>211_Reassurance</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>947</xmin>
-			<ymin>2794</ymin>
-			<xmax>2527</xmax>
-			<ymax>3059</ymax>
+			<xmin>902</xmin>
+			<ymin>2280</ymin>
+			<xmax>2530</xmax>
+			<ymax>2524</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>211-3-2</name>
+		<name>211_Binding clause</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>2890</xmin>
 			<ymin>196</ymin>
-			<xmax>4604</xmax>
-			<ymax>1257</ymax>
+			<xmax>4608</xmax>
+			<ymax>646</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>211-4</name>
+		<name>211_Copete_power of attorney</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -109,15 +108,75 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>211-5</name>
+		<name>211_Notification_name and place of residence of parties</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>2900</xmin>
 			<ymin>2122</ymin>
-			<xmax>4571</xmax>
-			<ymax>3141</ymax>
+			<xmax>4617</xmax>
+			<ymax>2635</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>211_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>890</xmin>
+			<ymin>623</ymin>
+			<xmax>2537</xmax>
+			<ymax>817</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>211_Disallowance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>886</xmin>
+			<ymin>1426</ymin>
+			<xmax>2532</xmax>
+			<ymax>1759</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>211_Reassurance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2875</xmin>
+			<ymin>668</ymin>
+			<xmax>4595</xmax>
+			<ymax>1203</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>211_Signatures</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2864</xmin>
+			<ymin>1215</ymin>
+			<xmax>4586</xmax>
+			<ymax>2094</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>211_Dispositio_name of parties</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2897</xmin>
+			<ymin>2677</ymin>
+			<xmax>4610</xmax>
+			<ymax>3070</ymax>
 		</bndbox>
 	</object>
 </annotation>

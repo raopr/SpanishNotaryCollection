@@ -1,8 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
 <annotation>
-	<folder>images</folder>
+	<folder>Images</folder>
 	<filename>195.jpg</filename>
-	<path>195.jpg</path>
+	<path>/Users/griecov/SpanishNotaryCollection/dataset/Images/195.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -13,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>195-1</name>
+		<name>195_Copete_sale</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -25,51 +24,75 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>195-2-1</name>
+		<name>195_Date and place</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>2956</xmin>
 			<ymin>172</ymin>
-			<xmax>4744</xmax>
-			<ymax>1192</ymax>
+			<xmax>4743</xmax>
+			<ymax>448</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>195-2-2</name>
+		<name>195_Validation</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2905</xmin>
-			<ymin>1197</ymin>
-			<xmax>4136</xmax>
-			<ymax>1328</ymax>
+			<xmin>3029</xmin>
+			<ymin>452</ymin>
+			<xmax>4700</xmax>
+			<ymax>860</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>195-3-1</name>
+		<name>195_circumstnce and residence of party</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>4172</xmin>
-			<ymin>1164</ymin>
-			<xmax>4697</xmax>
-			<ymax>1287</ymax>
+			<xmin>3022</xmin>
+			<ymin>864</ymin>
+			<xmax>4729</xmax>
+			<ymax>1186</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>195-3-2</name>
+		<name>195_Expositio</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>2867</xmin>
-			<ymin>1282</ymin>
-			<xmax>4831</xmax>
-			<ymax>3149</ymax>
+			<ymin>1177</ymin>
+			<xmax>4762</xmax>
+			<ymax>1888</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>195_Binding clause</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2952</xmin>
+			<ymin>1843</ymin>
+			<xmax>4752</xmax>
+			<ymax>2614</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>195_Circumstance of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2986</xmin>
+			<ymin>2650</ymin>
+			<xmax>4557</xmax>
+			<ymax>3105</ymax>
 		</bndbox>
 	</object>
 </annotation>

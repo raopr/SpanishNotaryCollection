@@ -1,8 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
 <annotation>
-	<folder>images</folder>
+	<folder>Images</folder>
 	<filename>237.jpg</filename>
-	<path>237.jpg</path>
+	<path>/Users/griecov/SpanishNotaryCollection/dataset/Images/237.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -13,31 +12,31 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>237-1</name>
+		<name>237_Disallowance</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>785</xmin>
 			<ymin>203</ymin>
-			<xmax>2521</xmax>
-			<ymax>1697</ymax>
+			<xmax>2523</xmax>
+			<ymax>452</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>237-2</name>
+		<name>237_Validation</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>372</xmin>
-			<ymin>1615</ymin>
-			<xmax>787</xmax>
-			<ymax>1815</ymax>
+			<xmin>838</xmin>
+			<ymin>1356</ymin>
+			<xmax>2523</xmax>
+			<ymax>1718</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>237-3</name>
+		<name>237_Copete_Sale of property</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -49,51 +48,123 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>237-4</name>
+		<name>237_Notificatio_date and place</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>810</xmin>
 			<ymin>2462</ymin>
-			<xmax>2487</xmax>
-			<ymax>3213</ymax>
+			<xmax>2528</xmax>
+			<ymax>2878</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>237-5</name>
+		<name>237_Description of asset_plot of land</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>2908</xmin>
 			<ymin>178</ymin>
-			<xmax>4653</xmax>
-			<ymax>1359</ymax>
+			<xmax>4655</xmax>
+			<ymax>1149</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>237-6</name>
+		<name>237_Price of asset</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2884</xmin>
-			<ymin>1284</ymin>
-			<xmax>4663</xmax>
-			<ymax>2504</ymax>
+			<xmin>2916</xmin>
+			<ymin>1143</ymin>
+			<xmax>4670</xmax>
+			<ymax>2075</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>237-7</name>
+		<name>237_Dissallowance</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2939</xmin>
-			<ymin>2441</ymin>
-			<xmax>4671</xmax>
-			<ymax>3147</ymax>
+			<xmin>2948</xmin>
+			<ymin>2097</ymin>
+			<xmax>4696</xmax>
+			<ymax>2784</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>237_Date and place</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>836</xmin>
+			<ymin>459</ymin>
+			<xmax>2518</xmax>
+			<ymax>595</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>237_Reassurance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>855</xmin>
+			<ymin>614</ymin>
+			<xmax>2509</xmax>
+			<ymax>798</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>237_Validation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>839</xmin>
+			<ymin>816</ymin>
+			<xmax>2527</xmax>
+			<ymax>1357</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>237_Signatures</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>780</xmin>
+			<ymin>1700</ymin>
+			<xmax>2561</xmax>
+			<ymax>2389</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>237_Dispositio_names of parties</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>861</xmin>
+			<ymin>2902</ymin>
+			<xmax>2520</xmax>
+			<ymax>3158</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>237_Binding clause</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2934</xmin>
+			<ymin>2834</ymin>
+			<xmax>4714</xmax>
+			<ymax>3155</ymax>
 		</bndbox>
 	</object>
 </annotation>

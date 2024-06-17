@@ -1,8 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
 <annotation>
-	<folder>images</folder>
+	<folder>Images</folder>
 	<filename>239.jpg</filename>
-	<path>239.jpg</path>
+	<path>/Users/griecov/SpanishNotaryCollection/dataset/Images/239.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -13,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>239-1</name>
+		<name>239_Copete_Power of attorney</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -25,55 +24,55 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>239-2</name>
+		<name>239_Notificatio_name and place of residence of parities</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2888</xmin>
-			<ymin>120</ymin>
-			<xmax>4727</xmax>
-			<ymax>1276</ymax>
+			<xmin>2890</xmin>
+			<ymin>78</ymin>
+			<xmax>4686</xmax>
+			<ymax>491</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>239-3-1</name>
+		<name>239_Dispositio</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>3951</xmin>
-			<ymin>1163</ymin>
-			<xmax>4678</xmax>
-			<ymax>1278</ymax>
+			<xmin>2936</xmin>
+			<ymin>505</ymin>
+			<xmax>4689</xmax>
+			<ymax>884</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>239-3-2</name>
+		<name>239_Scope of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2918</xmin>
-			<ymin>1253</ymin>
-			<xmax>4763</xmax>
-			<ymax>2355</ymax>
+			<xmin>2897</xmin>
+			<ymin>893</ymin>
+			<xmax>4709</xmax>
+			<ymax>1277</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>239-4</name>
+		<name>239_Disallowance</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2955</xmin>
-			<ymin>2318</ymin>
-			<xmax>4739</xmax>
-			<ymax>3053</ymax>
+			<xmin>2975</xmin>
+			<ymin>2139</ymin>
+			<xmax>4766</xmax>
+			<ymax>2311</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>239-5</name>
+		<name>239_Copete_Renunciation</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -85,39 +84,123 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>239-6</name>
+		<name>239_Date and place</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>873</xmin>
 			<ymin>159</ymin>
-			<xmax>2500</xmax>
-			<ymax>1206</ymax>
+			<xmax>2505</xmax>
+			<ymax>490</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>239-7-1</name>
+		<name>239_Reassurance</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1380</xmin>
-			<ymin>1094</ymin>
-			<xmax>2494</xmax>
-			<ymax>1231</ymax>
+			<xmin>878</xmin>
+			<ymin>496</ymin>
+			<xmax>2511</xmax>
+			<ymax>787</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>239-7-2</name>
+		<name>239_Dispositio</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>812</xmin>
-			<ymin>1173</ymin>
-			<xmax>2510</xmax>
-			<ymax>2098</ymax>
+			<xmin>830</xmin>
+			<ymin>785</ymin>
+			<xmax>2525</xmax>
+			<ymax>1387</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>239_Binding clause</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>887</xmin>
+			<ymin>1425</ymin>
+			<xmax>2528</xmax>
+			<ymax>1646</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>239_Validation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>831</xmin>
+			<ymin>1684</ymin>
+			<xmax>2514</xmax>
+			<ymax>2117</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>239_Signatures</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>684</xmin>
+			<ymin>2128</ymin>
+			<xmax>2564</xmax>
+			<ymax>3087</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>239_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2911</xmin>
+			<ymin>1284</ymin>
+			<xmax>4705</xmax>
+			<ymax>1716</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>239_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2946</xmin>
+			<ymin>1689</ymin>
+			<xmax>4757</xmax>
+			<ymax>2143</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>239_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2984</xmin>
+			<ymin>2330</ymin>
+			<xmax>4752</xmax>
+			<ymax>2666</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>239_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2987</xmin>
+			<ymin>2678</ymin>
+			<xmax>4755</xmax>
+			<ymax>3014</ymax>
 		</bndbox>
 	</object>
 </annotation>

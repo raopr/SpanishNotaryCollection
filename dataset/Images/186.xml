@@ -1,8 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
 <annotation>
-	<folder>images</folder>
+	<folder>Images</folder>
 	<filename>186.jpg</filename>
-	<path>186.jpg</path>
+	<path>/Users/griecov/SpanishNotaryCollection/dataset/Images/186.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -13,63 +12,135 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>186-1</name>
+		<name>186_Binding clause</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>767</xmin>
+			<xmin>672</xmin>
 			<ymin>197</ymin>
-			<xmax>2449</xmax>
-			<ymax>1985</ymax>
+			<xmax>2582</xmax>
+			<ymax>910</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>186-2-1</name>
+		<name>186_Disallowance</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>641</xmin>
-			<ymin>1910</ymin>
-			<xmax>2567</xmax>
-			<ymax>3067</ymax>
+			<xmin>687</xmin>
+			<ymin>1302</ymin>
+			<xmax>2485</xmax>
+			<ymax>1951</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>186-2-2</name>
+		<name>186_Validatio</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>3026</xmin>
 			<ymin>123</ymin>
-			<xmax>4087</xmax>
-			<ymax>267</ymax>
+			<xmax>4718</xmax>
+			<ymax>751</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>186-3</name>
+		<name>186_Penalty</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2974</xmin>
-			<ymin>169</ymin>
-			<xmax>4744</xmax>
-			<ymax>1621</ymax>
+			<xmin>2979</xmin>
+			<ymin>724</ymin>
+			<xmax>4767</xmax>
+			<ymax>1272</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>186-4</name>
+		<name>186_Validatio</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2931</xmin>
-			<ymin>1551</ymin>
-			<xmax>4885</xmax>
-			<ymax>3077</ymax>
+			<xmin>2972</xmin>
+			<ymin>1272</ymin>
+			<xmax>4756</xmax>
+			<ymax>1587</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>186_Disallowance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>733</xmin>
+			<ymin>903</ymin>
+			<xmax>2441</xmax>
+			<ymax>1287</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>186_Expositio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>677</xmin>
+			<ymin>1982</ymin>
+			<xmax>2444</xmax>
+			<ymax>2474</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>186_Validatio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>749</xmin>
+			<ymin>2497</ymin>
+			<xmax>2438</xmax>
+			<ymax>3005</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>186_Binding clause</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2987</xmin>
+			<ymin>1590</ymin>
+			<xmax>4695</xmax>
+			<ymax>2000</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>186_Binding clause</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3010</xmin>
+			<ymin>2038</ymin>
+			<xmax>4682</xmax>
+			<ymax>2569</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>186_Disallowance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3026</xmin>
+			<ymin>2656</ymin>
+			<xmax>4726</xmax>
+			<ymax>2979</ymax>
 		</bndbox>
 	</object>
 </annotation>

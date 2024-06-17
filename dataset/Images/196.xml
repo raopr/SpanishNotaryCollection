@@ -1,8 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
 <annotation>
-	<folder>images</folder>
+	<folder>Images</folder>
 	<filename>196.jpg</filename>
-	<path>196.jpg</path>
+	<path>/Users/griecov/SpanishNotaryCollection/dataset/Images/196.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -13,87 +12,147 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>196-1-1</name>
+		<name>196_Circumstance of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>823</xmin>
-			<ymin>203</ymin>
-			<xmax>2533</xmax>
-			<ymax>1659</ymax>
+			<xmin>784</xmin>
+			<ymin>224</ymin>
+			<xmax>2531</xmax>
+			<ymax>1076</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>196-1-2</name>
+		<name>196_Circumstance of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>774</xmin>
-			<ymin>1682</ymin>
-			<xmax>1554</xmax>
-			<ymax>1818</ymax>
+			<xmin>803</xmin>
+			<ymin>1082</ymin>
+			<xmax>2502</xmax>
+			<ymax>1774</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>196-2-1</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1590</xmin>
-			<ymin>1667</ymin>
-			<xmax>2521</xmax>
-			<ymax>1795</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>196-2-2</name>
+		<name>196_Scope of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>744</xmin>
 			<ymin>1785</ymin>
-			<xmax>2533</xmax>
-			<ymax>3174</ymax>
+			<xmax>2521</xmax>
+			<ymax>2338</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>196-2-3</name>
+		<name>196_Binding clause</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>2927</xmin>
-			<ymin>186</ymin>
-			<xmax>4643</xmax>
-			<ymax>749</ymax>
+			<ymin>269</ymin>
+			<xmax>4657</xmax>
+			<ymax>626</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>196-3</name>
+		<name>196_Validation</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2920</xmin>
-			<ymin>714</ymin>
-			<xmax>4735</xmax>
-			<ymax>1922</ymax>
+			<xmin>2879</xmin>
+			<ymin>635</ymin>
+			<xmax>4692</xmax>
+			<ymax>1074</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>196-4</name>
+		<name>196_Disallowance</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2935</xmin>
-			<ymin>1873</ymin>
-			<xmax>4769</xmax>
-			<ymax>3186</ymax>
+			<xmin>2904</xmin>
+			<ymin>1056</ymin>
+			<xmax>4719</xmax>
+			<ymax>1336</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>196_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>752</xmin>
+			<ymin>2345</ymin>
+			<xmax>2512</xmax>
+			<ymax>2581</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>195_Binding clause</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>788</xmin>
+			<ymin>2583</ymin>
+			<xmax>2529</xmax>
+			<ymax>3138</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>196_Disallowance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2940</xmin>
+			<ymin>1374</ymin>
+			<xmax>4700</xmax>
+			<ymax>1883</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>196_Binding clause</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2929</xmin>
+			<ymin>1910</ymin>
+			<xmax>4726</xmax>
+			<ymax>2581</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>196_Disallowance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2936</xmin>
+			<ymin>2605</ymin>
+			<xmax>4807</xmax>
+			<ymax>2929</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>196_Validation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2964</xmin>
+			<ymin>2938</ymin>
+			<xmax>4817</xmax>
+			<ymax>3162</ymax>
 		</bndbox>
 	</object>
 </annotation>

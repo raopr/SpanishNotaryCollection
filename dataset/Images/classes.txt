@@ -1,0 +1,84 @@
+dog
+person
+cat
+tv
+car
+meatballs
+marinara sauce
+tomato soup
+chicken noodle soup
+french onion soup
+chicken breast
+ribs
+pulled pork
+hamburger
+cavity
+R38,Img18_2
+R38,Img18_3
+R38,Img18_Header
+R38,Img18_1
+R38,Img18_1_1
+R38,Img18_1_2
+R38,Img18_Validatio
+R38,Img18_Dissalowance
+R38,Img18_Scope of deed
+R38,Img18_Binding Clause
+R38,Img18_Certificatio
+R38,Img18_Length of agreement and amount involved
+R38,Img18_Oath
+R38,Img18_Reassurance
+R38,Img18_Signatures
+R38,Img29_Dispositio
+R38,Img29_Expositio
+R38,Img29_Limitatio
+R38,Img29_Binding Clause
+R38,Img29_Reassurance
+R38,Img29_Validation
+R38,Img29_Signatures
+R38,Img30_Validatio
+R38,Img30_Circumstance of Deed
+R38,Img30_Signatures
+R38,Img30_Dispositio
+R38,Img30_Scope of deed
+R38,Img31_Limitation
+R38,Img31_Disallowance
+R38,Img31_Scope of deed
+R38,Img32_Reassurance
+R38,Img32_Signatures
+R38,Img32_Header
+R38,Img32_Notificatio & parties
+R38,Img32_Intitulatio
+R38,Img32_Delegation of Authority
+R38,Img32_Disallowance
+R38,Img32_Expositio_sale of mulatto slave
+R38,Img32_Circumstance of deed
+R38,Img33_Circumstance of deed
+R38,Img33_Binding clause
+R38,Img33_Reassurance
+R38,Img34_Reassurance
+R38,Img34_Disallowance
+R38,Img34_Reassurance and Oath
+R38,Img34_Reassurance 
+R38,Img34_Circumstance of deed
+R38,Img34_Validation
+R38,Img34_Signatures
+R38,Img35_Notificatio
+R38,Img35_Soul
+R38,Img35_Legitimate heirs
+R38,Img35_Assets party owes
+R38,Img36_Assets party owes and mandate for repayment
+R38,Img37_Declaration of assests_cattle ranch with cows and horses
+R38,Img37_Declaration of assests_male slave named Francisco
+R38,Img37_Declaration of assests_male slave named Sebastian
+R38,Img37_Declaration of assests_male slave with a limp named Manuel
+R38,Img37_Delegation of minor children guardianship to wife
+R38,Img38_Validatio
+R38,Img38_Header
+R38,Img38_Date and place
+R38,Img38_Validatio and name and circumstance of party
+R38,Img38_Dispositio
+R38,Img38_Oath
+R38,Img38_Scope of deed
+R38,Img38_Reassurance
+R38,Img38_Abrogation of prior testaments
+R38,Img38_Circumstance of deed

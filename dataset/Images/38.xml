@@ -1,8 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
 <annotation>
-	<folder>SPANRTD_Images</folder>
+	<folder>Images</folder>
 	<filename>38.jpg</filename>
-	<path>38</path>
+	<path>/Users/griecov/SpanishNotaryCollection/dataset/Images/38.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -13,39 +12,171 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>R38,Img38_1</name>
+		<name>R38,Img38_Abrogation of prior testaments</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>778</xmin>
-			<ymin>165</ymin>
-			<xmax>2485</xmax>
-			<ymax>1020</ymax>
+			<xmin>773</xmin>
+			<ymin>142</ymin>
+			<xmax>2509</xmax>
+			<ymax>998</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>R38,Img38_2</name>
+		<name>R38,Img38_Validatio</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>759</xmin>
-			<ymin>909</ymin>
-			<xmax>2504</xmax>
-			<ymax>1839</ymax>
+			<xmin>836</xmin>
+			<ymin>925</ymin>
+			<xmax>2511</xmax>
+			<ymax>1716</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>R38,Img38_3</name>
+		<name>R38,Img38_Date and place</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>588</xmin>
-			<ymin>1704</ymin>
-			<xmax>2542</xmax>
-			<ymax>2313</ymax>
+			<xmin>791</xmin>
+			<ymin>1705</ymin>
+			<xmax>2523</xmax>
+			<ymax>1961</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img38_Validatio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>823</xmin>
+			<ymin>1975</ymin>
+			<xmax>2536</xmax>
+			<ymax>2298</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img38_Header</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2602</xmin>
+			<ymin>166</ymin>
+			<xmax>3105</xmax>
+			<ymax>939</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img38_Date and place</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3132</xmin>
+			<ymin>229</ymin>
+			<xmax>4671</xmax>
+			<ymax>434</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img38_Validatio and name and circumstance of party</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3092</xmin>
+			<ymin>473</ymin>
+			<xmax>4684</xmax>
+			<ymax>986</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img38_Dispositio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3032</xmin>
+			<ymin>986</ymin>
+			<xmax>4703</xmax>
+			<ymax>1427</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img38_Reassurance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3027</xmin>
+			<ymin>1445</ymin>
+			<xmax>4699</xmax>
+			<ymax>1769</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img38_Oath</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3027</xmin>
+			<ymin>1843</ymin>
+			<xmax>4658</xmax>
+			<ymax>2201</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img38_Circumstance of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3012</xmin>
+			<ymin>2173</ymin>
+			<xmax>4684</xmax>
+			<ymax>2388</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img38_Reassurance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2990</xmin>
+			<ymin>2412</ymin>
+			<xmax>4693</xmax>
+			<ymax>2990</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img38_Validatio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>820</xmin>
+			<ymin>2289</ymin>
+			<xmax>2548</xmax>
+			<ymax>2566</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img38_Signatures</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>786</xmin>
+			<ymin>2584</ymin>
+			<xmax>2536</xmax>
+			<ymax>3175</ymax>
 		</bndbox>
 	</object>
 </annotation>

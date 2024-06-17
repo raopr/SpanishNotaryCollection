@@ -1,8 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
 <annotation>
-	<folder>SPANRTD_Images</folder>
+	<folder>Images</folder>
 	<filename>32.jpg</filename>
-	<path>32</path>
+	<path>/Users/griecov/SpanishNotaryCollection/dataset/Images/32.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -13,27 +12,171 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>R38,Img32_1</name>
+		<name>R38,Img32_Scope of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>532</xmin>
 			<ymin>188</ymin>
-			<xmax>2471</xmax>
-			<ymax>1182</ymax>
+			<xmax>2496</xmax>
+			<ymax>1018</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>R38,Img32_2</name>
+		<name>R38,Img32_Date</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>538</xmin>
-			<ymin>1041</ymin>
-			<xmax>2485</xmax>
-			<ymax>3057</ymax>
+			<xmin>524</xmin>
+			<ymin>1266</ymin>
+			<xmax>2460</xmax>
+			<ymax>1478</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img32_Reassurance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>520</xmin>
+			<ymin>1030</ymin>
+			<xmax>2472</xmax>
+			<ymax>1226</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img32_Reassurance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>544</xmin>
+			<ymin>1502</ymin>
+			<xmax>2444</xmax>
+			<ymax>2226</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img32_Signatures</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>652</xmin>
+			<ymin>2282</ymin>
+			<xmax>2380</xmax>
+			<ymax>3018</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img32_Header</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2496</xmin>
+			<ymin>190</ymin>
+			<xmax>3010</xmax>
+			<ymax>870</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img32_Notificatio &amp; parties</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3013</xmin>
+			<ymin>187</ymin>
+			<xmax>4722</xmax>
+			<ymax>618</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img32_Intitulatio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3029</xmin>
+			<ymin>633</ymin>
+			<xmax>4664</xmax>
+			<ymax>1018</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img32_Delegation of Authority</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2989</xmin>
+			<ymin>1047</ymin>
+			<xmax>4687</xmax>
+			<ymax>1362</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img32_Intitulatio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2880</xmin>
+			<ymin>1387</ymin>
+			<xmax>4671</xmax>
+			<ymax>1531</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img32_Disallowance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2949</xmin>
+			<ymin>1558</ymin>
+			<xmax>4664</xmax>
+			<ymax>2060</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img32_Expositio_sale of mulatto slave</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2936</xmin>
+			<ymin>2096</ymin>
+			<xmax>4716</xmax>
+			<ymax>2378</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img32_Disallowance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2938</xmin>
+			<ymin>2404</ymin>
+			<xmax>4738</xmax>
+			<ymax>2600</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img32_Circumstance of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2949</xmin>
+			<ymin>2620</ymin>
+			<xmax>4673</xmax>
+			<ymax>3067</ymax>
 		</bndbox>
 	</object>
 </annotation>

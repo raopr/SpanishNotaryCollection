@@ -1,8 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
 <annotation>
-	<folder>images</folder>
+	<folder>Images</folder>
 	<filename>189.jpg</filename>
-	<path>189.jpg</path>
+	<path>/Users/griecov/SpanishNotaryCollection/dataset/Images/189.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -13,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>189-1</name>
+		<name>189_Copete</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -25,31 +24,31 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>189-2</name>
+		<name>189_Date and place</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>827</xmin>
 			<ymin>104</ymin>
-			<xmax>2486</xmax>
-			<ymax>1488</ymax>
+			<xmax>2538</xmax>
+			<ymax>379</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>189-3</name>
+		<name>189_Type of transaction_IOU</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>865</xmin>
-			<ymin>1416</ymin>
-			<xmax>2567</xmax>
-			<ymax>2720</ymax>
+			<xmin>863</xmin>
+			<ymin>1356</ymin>
+			<xmax>2569</xmax>
+			<ymax>1631</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>189-4</name>
+		<name>189_Copete_resignation of office</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -61,51 +60,207 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>189-5-1</name>
+		<name>189_Date and place</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>2998</xmin>
 			<ymin>137</ymin>
-			<xmax>4647</xmax>
-			<ymax>1190</ymax>
+			<xmax>4687</xmax>
+			<ymax>377</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>189-5-2</name>
+		<name>189_Validation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3039</xmin>
+			<ymin>374</ymin>
+			<xmax>4651</xmax>
+			<ymax>721</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>189_Dispositio</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>3024</xmin>
-			<ymin>1184</ymin>
-			<xmax>3894</xmax>
-			<ymax>1296</ymax>
+			<ymin>726</ymin>
+			<xmax>4667</xmax>
+			<ymax>1177</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>189-6-1</name>
+		<name>189_Disallowance</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>3924</xmin>
-			<ymin>1167</ymin>
-			<xmax>4614</xmax>
-			<ymax>1292</ymax>
+			<xmin>2995</xmin>
+			<ymin>1197</ymin>
+			<xmax>4708</xmax>
+			<ymax>1572</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>189-6-2</name>
+		<name>189_Validation</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2984</xmin>
-			<ymin>1267</ymin>
-			<xmax>4671</xmax>
-			<ymax>2535</ymax>
+			<xmin>887</xmin>
+			<ymin>390</ymin>
+			<xmax>2469</xmax>
+			<ymax>664</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>189_Disallowance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>874</xmin>
+			<ymin>685</ymin>
+			<xmax>2523</xmax>
+			<ymax>877</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>189_Expositio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>867</xmin>
+			<ymin>913</ymin>
+			<xmax>2518</xmax>
+			<ymax>1103</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>189_Circumstance of deed_tax farming</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>859</xmin>
+			<ymin>1131</ymin>
+			<xmax>2521</xmax>
+			<ymax>1346</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>189_Disallowance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>887</xmin>
+			<ymin>1659</ymin>
+			<xmax>2551</xmax>
+			<ymax>1790</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>189_Binding clause</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>869</xmin>
+			<ymin>1818</ymin>
+			<xmax>2515</xmax>
+			<ymax>1956</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>189_Validation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>862</xmin>
+			<ymin>1887</ymin>
+			<xmax>2554</xmax>
+			<ymax>2172</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>189_Disallowance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>864</xmin>
+			<ymin>2182</ymin>
+			<xmax>2515</xmax>
+			<ymax>2305</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>189_Validation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>872</xmin>
+			<ymin>2318</ymin>
+			<xmax>2518</xmax>
+			<ymax>2669</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>189_Signatures</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>823</xmin>
+			<ymin>2700</ymin>
+			<xmax>2544</xmax>
+			<ymax>3272</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>189_Validation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3000</xmin>
+			<ymin>1577</ymin>
+			<xmax>4690</xmax>
+			<ymax>1928</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>189_Validation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3036</xmin>
+			<ymin>1936</ymin>
+			<xmax>4705</xmax>
+			<ymax>2472</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>189_Signatures</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2997</xmin>
+			<ymin>2469</ymin>
+			<xmax>4728</xmax>
+			<ymax>3059</ymax>
 		</bndbox>
 	</object>
 </annotation>

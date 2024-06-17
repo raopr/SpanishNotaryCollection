@@ -1,8 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
 <annotation>
-	<folder>SPANRTD_Images</folder>
+	<folder>Images</folder>
 	<filename>37.jpg</filename>
-	<path>37</path>
+	<path>/Users/griecov/SpanishNotaryCollection/dataset/Images/37.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -13,55 +12,55 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>R38,Img37_1</name>
+		<name>R38,Img37_Declaration of assets_farm</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>804</xmin>
 			<ymin>172</ymin>
-			<xmax>2461</xmax>
-			<ymax>1063</ymax>
+			<xmax>2497</xmax>
+			<ymax>1472</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>R38,Img37_2</name>
+		<name>R38,Img37_Declaration of assets_orchard</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>754</xmin>
-			<ymin>1057</ymin>
-			<xmax>2452</xmax>
-			<ymax>2204</ymax>
+			<xmin>805</xmin>
+			<ymin>1473</ymin>
+			<xmax>2505</xmax>
+			<ymax>1869</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>R38,Img37_3</name>
+		<name>R38,Img37_Declaration of assets_farm</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>817</xmin>
-			<ymin>2180</ymin>
-			<xmax>2459</xmax>
-			<ymax>3076</ymax>
+			<xmin>758</xmin>
+			<ymin>1874</ymin>
+			<xmax>2451</xmax>
+			<ymax>2195</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>R38,Img37_4</name>
+		<name>R38,Img37_Declaration of assets_sheep</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>2980</xmin>
-			<ymin>167</ymin>
-			<xmax>4652</xmax>
-			<ymax>700</ymax>
+			<ymin>161</ymin>
+			<xmax>4661</xmax>
+			<ymax>311</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>R38,Img37_5</name>
+		<name>R38,Img37_Asset bequated to female daughters for dowries</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -73,27 +72,99 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>R38,Img37_6</name>
+		<name>R38,Img37_Dispositio and names of executors</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2930</xmin>
-			<ymin>1159</ymin>
-			<xmax>4689</xmax>
-			<ymax>1943</ymax>
+			<xmin>2955</xmin>
+			<ymin>1133</ymin>
+			<xmax>4669</xmax>
+			<ymax>1778</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>R38,Img37_7</name>
+		<name>R38,Img37_List of heirs</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2913</xmin>
-			<ymin>1911</ymin>
-			<xmax>4717</xmax>
-			<ymax>3148</ymax>
+			<xmin>2988</xmin>
+			<ymin>1780</ymin>
+			<xmax>4680</xmax>
+			<ymax>2561</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img37_Declaration of assests_cattle ranch with cows and horses</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>766</xmin>
+			<ymin>2206</ymin>
+			<xmax>2455</xmax>
+			<ymax>3116</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img37_Declaration of assests_creole male slave named Francisco</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2959</xmin>
+			<ymin>269</ymin>
+			<xmax>4677</xmax>
+			<ymax>389</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img37_Declaration of assests_male slave named Sebastian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2955</xmin>
+			<ymin>375</ymin>
+			<xmax>4667</xmax>
+			<ymax>491</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img37_Declaration of assests_male slave with a limp named Manuel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2923</xmin>
+			<ymin>494</ymin>
+			<xmax>4097</xmax>
+			<ymax>591</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img37_Declaration of assests_female slave named Maria</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2966</xmin>
+			<ymin>593</ymin>
+			<xmax>4320</xmax>
+			<ymax>694</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img37_Delegation of minor children guardianship to wife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2963</xmin>
+			<ymin>2594</ymin>
+			<xmax>4675</xmax>
+			<ymax>3136</ymax>
 		</bndbox>
 	</object>
 </annotation>

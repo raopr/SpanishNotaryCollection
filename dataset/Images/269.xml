@@ -1,8 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
 <annotation>
-	<folder>images</folder>
+	<folder>Images</folder>
 	<filename>269.jpg</filename>
-	<path>269.jpg</path>
+	<path>/Users/griecov/SpanishNotaryCollection/dataset/Images/269.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -13,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>269-1</name>
+		<name>269_Copete</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -25,63 +24,75 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>269-2</name>
+		<name>269_Date and place</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>3031</xmin>
-			<ymin>87</ymin>
-			<xmax>4692</xmax>
-			<ymax>897</ymax>
+			<ymin>90</ymin>
+			<xmax>4791</xmax>
+			<ymax>416</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>269-2-1</name>
+		<name>269_Reassurance</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2998</xmin>
-			<ymin>873</ymin>
-			<xmax>4767</xmax>
-			<ymax>1767</ymax>
+			<xmin>3034</xmin>
+			<ymin>418</ymin>
+			<xmax>4824</xmax>
+			<ymax>863</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>269-2-2</name>
+		<name>269_Expositio</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>3018</xmin>
-			<ymin>1755</ymin>
-			<xmax>4169</xmax>
-			<ymax>1873</ymax>
+			<xmin>3024</xmin>
+			<ymin>876</ymin>
+			<xmax>4821</xmax>
+			<ymax>1802</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>269-3-1</name>
+		<name>269_Scope of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>4171</xmin>
-			<ymin>1737</ymin>
-			<xmax>4727</xmax>
-			<ymax>1865</ymax>
+			<xmin>3068</xmin>
+			<ymin>1815</ymin>
+			<xmax>4718</xmax>
+			<ymax>2096</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>269-3-2</name>
+		<name>269_Expositio</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2992</xmin>
-			<ymin>1833</ymin>
-			<xmax>4798</xmax>
-			<ymax>3171</ymax>
+			<xmin>2995</xmin>
+			<ymin>2369</ymin>
+			<xmax>4713</xmax>
+			<ymax>3130</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>269_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3044</xmin>
+			<ymin>2069</ymin>
+			<xmax>4694</xmax>
+			<ymax>2350</ymax>
 		</bndbox>
 	</object>
 </annotation>

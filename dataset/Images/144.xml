@@ -1,8 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
 <annotation>
-	<folder>images</folder>
+	<folder>Images</folder>
 	<filename>144.jpg</filename>
-	<path>144.jpg</path>
+	<path>/Users/griecov/SpanishNotaryCollection/dataset/Images/144.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -13,19 +12,19 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>144-1</name>
+		<name>144_binding clause</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>792</xmin>
-			<ymin>189</ymin>
-			<xmax>2320</xmax>
-			<ymax>1609</ymax>
+			<xmin>744</xmin>
+			<ymin>184</ymin>
+			<xmax>2314</xmax>
+			<ymax>377</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>144-2</name>
+		<name>144_Header</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -37,31 +36,31 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>144-3</name>
+		<name>144_notificatio_name and place of residence of parties</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>844</xmin>
 			<ymin>1621</ymin>
-			<xmax>2321</xmax>
-			<ymax>3123</ymax>
+			<xmax>2298</xmax>
+			<ymax>2135</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>144-4</name>
+		<name>144_Profession of faith</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2797</xmin>
-			<ymin>190</ymin>
-			<xmax>4272</xmax>
-			<ymax>697</ymax>
+			<xmin>2764</xmin>
+			<ymin>214</ymin>
+			<xmax>4247</xmax>
+			<ymax>533</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>144-5</name>
+		<name>144_Header</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -73,51 +72,147 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>144-6</name>
+		<name>144_Corroboratio_abrogation of prior testments</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2755</xmin>
-			<ymin>688</ymin>
-			<xmax>4288</xmax>
-			<ymax>1584</ymax>
+			<xmin>2762</xmin>
+			<ymin>1286</ymin>
+			<xmax>4270</xmax>
+			<ymax>1623</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>144-7</name>
+		<name>144_Corroboratio</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>2708</xmin>
-			<ymin>1580</ymin>
-			<xmax>4333</xmax>
-			<ymax>2404</ymax>
+			<ymin>1679</ymin>
+			<xmax>4291</xmax>
+			<ymax>2635</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>144-8</name>
+		<name>144_Date and place</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2635</xmin>
-			<ymin>2384</ymin>
-			<xmax>4402</xmax>
-			<ymax>2855</ymax>
+			<xmin>2653</xmin>
+			<ymin>2642</ymin>
+			<xmax>4437</xmax>
+			<ymax>2874</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>144-9</name>
+		<name>144_Reassurance</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2733</xmin>
-			<ymin>2861</ymin>
-			<xmax>4639</xmax>
-			<ymax>3171</ymax>
+			<xmin>747</xmin>
+			<ymin>398</ymin>
+			<xmax>2263</xmax>
+			<ymax>781</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>144_Reassurance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>777</xmin>
+			<ymin>805</ymin>
+			<xmax>2253</xmax>
+			<ymax>1123</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>144_Reassurance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>828</xmin>
+			<ymin>1142</ymin>
+			<xmax>2279</xmax>
+			<ymax>1423</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>144_Validation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>812</xmin>
+			<ymin>1421</ymin>
+			<xmax>2314</xmax>
+			<ymax>1619</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>144_Profession of Faith</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>828</xmin>
+			<ymin>2179</ymin>
+			<xmax>2351</xmax>
+			<ymax>3079</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>144_Dispositio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2774</xmin>
+			<ymin>533</ymin>
+			<xmax>4307</xmax>
+			<ymax>686</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>144_Legitimate Heirs</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2784</xmin>
+			<ymin>1074</ymin>
+			<xmax>4258</xmax>
+			<ymax>1293</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>144_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2807</xmin>
+			<ymin>716</ymin>
+			<xmax>4288</xmax>
+			<ymax>1063</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>144_Validatio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2691</xmin>
+			<ymin>2888</ymin>
+			<xmax>4563</xmax>
+			<ymax>3160</ymax>
 		</bndbox>
 	</object>
 </annotation>

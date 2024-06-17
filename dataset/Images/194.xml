@@ -1,8 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
 <annotation>
-	<folder>images</folder>
+	<folder>Images</folder>
 	<filename>194.jpg</filename>
-	<path>194.jpg</path>
+	<path>/Users/griecov/SpanishNotaryCollection/dataset/Images/194.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -13,63 +12,123 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>194-1</name>
+		<name>194_Binding clause</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>821</xmin>
-			<ymin>187</ymin>
-			<xmax>2556</xmax>
-			<ymax>1128</ymax>
+			<xmin>815</xmin>
+			<ymin>286</ymin>
+			<xmax>2517</xmax>
+			<ymax>798</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>194-2</name>
+		<name>194_Disallowance</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>782</xmin>
-			<ymin>1104</ymin>
-			<xmax>2533</xmax>
-			<ymax>2118</ymax>
+			<xmin>823</xmin>
+			<ymin>812</ymin>
+			<xmax>2524</xmax>
+			<ymax>1114</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>194-3-1</name>
+		<name>194_Date and place</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>745</xmin>
-			<ymin>2100</ymin>
+			<xmin>762</xmin>
+			<ymin>1843</ymin>
+			<xmax>2517</xmax>
+			<ymax>2126</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>194_Validation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2955</xmin>
+			<ymin>429</ymin>
+			<xmax>4633</xmax>
+			<ymax>710</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>194_Signatures</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2957</xmin>
+			<ymin>714</ymin>
+			<xmax>4648</xmax>
+			<ymax>1621</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>194_Binding clause</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>864</xmin>
+			<ymin>1145</ymin>
+			<xmax>2514</xmax>
+			<ymax>1521</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>194_Disallowance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>890</xmin>
+			<ymin>1545</ymin>
 			<xmax>2510</xmax>
-			<ymax>3131</ymax>
+			<ymax>1807</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>194-3-2</name>
+		<name>194_Reassurance</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2951</xmin>
-			<ymin>224</ymin>
-			<xmax>3902</xmax>
-			<ymax>361</ymax>
+			<xmin>788</xmin>
+			<ymin>2152</ymin>
+			<xmax>2524</xmax>
+			<ymax>2502</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>194-4</name>
+		<name>194_Validation</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2918</xmin>
-			<ymin>312</ymin>
-			<xmax>4602</xmax>
-			<ymax>749</ymax>
+			<xmin>800</xmin>
+			<ymin>2545</ymin>
+			<xmax>2488</xmax>
+			<ymax>3071</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>194_Circumstance of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2979</xmin>
+			<ymin>240</ymin>
+			<xmax>4626</xmax>
+			<ymax>407</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,8 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
 <annotation>
-	<folder>SPANRTD_Images</folder>
+	<folder>Images</folder>
 	<filename>240.jpg</filename>
-	<path>240.jpg</path>
+	<path>/Users/griecov/SpanishNotaryCollection/dataset/Images/240.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -13,75 +12,159 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>R40,img240_1</name>
+		<name>240_Scope of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>833</xmin>
 			<ymin>217</ymin>
+			<xmax>2534</xmax>
+			<ymax>752</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>240_Reassurance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>852</xmin>
+			<ymin>1641</ymin>
+			<xmax>2548</xmax>
+			<ymax>2186</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>240_Delegation of authority</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>844</xmin>
+			<ymin>2193</ymin>
+			<xmax>2566</xmax>
+			<ymax>2880</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>240_Binding clause</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2898</xmin>
+			<ymin>234</ymin>
+			<xmax>4686</xmax>
+			<ymax>766</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>240_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>845</xmin>
+			<ymin>1097</ymin>
+			<xmax>2575</xmax>
+			<ymax>1430</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>240_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>831</xmin>
+			<ymin>734</ymin>
 			<xmax>2520</xmax>
-			<ymax>1007</ymax>
+			<ymax>1089</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>R40,img240_1_1</name>
+		<name>240_Scope of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>839</xmin>
-			<ymin>993</ymin>
-			<xmax>1567</xmax>
-			<ymax>1074</ymax>
+			<xmin>854</xmin>
+			<ymin>1409</ymin>
+			<xmax>2536</xmax>
+			<ymax>1639</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>R40,img240_2</name>
+		<name>240_Delegation of authority</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1563</xmin>
-			<ymin>1015</ymin>
-			<xmax>2524</xmax>
-			<ymax>1122</ymax>
+			<xmin>805</xmin>
+			<ymin>2880</ymin>
+			<xmax>2557</xmax>
+			<ymax>3155</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>R40,img240_2_1</name>
+		<name>240_Binding clause</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>848</xmin>
-			<ymin>1100</ymin>
-			<xmax>2537</xmax>
-			<ymax>2189</ymax>
+			<xmin>2918</xmin>
+			<ymin>786</ymin>
+			<xmax>4677</xmax>
+			<ymax>1011</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>R40,img240_3</name>
+		<name>240_Reassurance</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>841</xmin>
-			<ymin>2191</ymin>
-			<xmax>2554</xmax>
-			<ymax>3102</ymax>
+			<xmin>2975</xmin>
+			<ymin>1027</ymin>
+			<xmax>4693</xmax>
+			<ymax>1168</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>R40,img240_4</name>
+		<name>240_Validation</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2924</xmin>
-			<ymin>174</ymin>
+			<xmin>3005</xmin>
+			<ymin>1177</ymin>
 			<xmax>4709</xmax>
-			<ymax>1670</ymax>
+			<ymax>1409</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>240_Validation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2973</xmin>
+			<ymin>1407</ymin>
+			<xmax>4677</xmax>
+			<ymax>1639</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>240_Signatures</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2980</xmin>
+			<ymin>1659</ymin>
+			<xmax>4784</xmax>
+			<ymax>2489</ymax>
 		</bndbox>
 	</object>
 </annotation>

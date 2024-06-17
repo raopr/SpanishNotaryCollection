@@ -1,8 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
 <annotation>
-	<folder>SPANRTD_Images</folder>
+	<folder>Images</folder>
 	<filename>100.jpg</filename>
-	<path>100.jpg</path>
+	<path>/Users/griecov/SpanishNotaryCollection/dataset/Images/100.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -25,27 +24,39 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>R38,Img100_1</name>
+		<name>R38,Img100_Notificatio_name and residence of parties</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>2949</xmin>
 			<ymin>1963</ymin>
-			<xmax>4633</xmax>
-			<ymax>2497</ymax>
+			<xmax>4675</xmax>
+			<ymax>2459</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>R38,Img100_2</name>
+		<name>R38,Img100_Dispositio</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>2815</xmin>
-			<ymin>2451</ymin>
-			<xmax>4692</xmax>
+			<ymin>2718</ymin>
+			<xmax>4673</xmax>
 			<ymax>3133</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img100_Circumstances of parties</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2936</xmin>
+			<ymin>2445</ymin>
+			<xmax>4693</xmax>
+			<ymax>2695</ymax>
 		</bndbox>
 	</object>
 </annotation>

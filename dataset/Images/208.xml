@@ -1,8 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
 <annotation>
-	<folder>images</folder>
+	<folder>Images</folder>
 	<filename>208.jpg</filename>
-	<path>208.jpg</path>
+	<path>/Users/griecov/SpanishNotaryCollection/dataset/Images/208.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -13,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>208-1</name>
+		<name>208_Copete_power of attorney</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -25,51 +24,87 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>208-2-1</name>
+		<name>208_Notiricatio_name and place of residence of parties</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>2916</xmin>
-			<ymin>155</ymin>
-			<xmax>4678</xmax>
-			<ymax>1671</ymax>
+			<ymin>143</ymin>
+			<xmax>4709</xmax>
+			<ymax>484</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>208-2-2</name>
+		<name>208_Dispositio_names of parties</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2894</xmin>
-			<ymin>1667</ymin>
-			<xmax>3286</xmax>
-			<ymax>1784</ymax>
+			<xmin>2961</xmin>
+			<ymin>999</ymin>
+			<xmax>4667</xmax>
+			<ymax>1684</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>208-3-1</name>
+		<name>208_Scope of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>3308</xmin>
-			<ymin>1659</ymin>
-			<xmax>4647</xmax>
-			<ymax>1776</ymax>
+			<xmin>2962</xmin>
+			<ymin>495</ymin>
+			<xmax>4676</xmax>
+			<ymax>993</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>208-4</name>
+		<name>208_Scope of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>2871</xmin>
-			<ymin>1729</ymin>
-			<xmax>4769</xmax>
-			<ymax>3149</ymax>
+			<ymin>1698</ymin>
+			<xmax>4691</xmax>
+			<ymax>2091</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>208_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2909</xmin>
+			<ymin>2103</ymin>
+			<xmax>4729</xmax>
+			<ymax>2496</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>208_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2927</xmin>
+			<ymin>2490</ymin>
+			<xmax>4747</xmax>
+			<ymax>2883</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>208_Scope of deed_parties involved</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2910</xmin>
+			<ymin>2866</ymin>
+			<xmax>4718</xmax>
+			<ymax>3176</ymax>
 		</bndbox>
 	</object>
 </annotation>

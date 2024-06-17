@@ -1,8 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
 <annotation>
-	<folder>images</folder>
+	<folder>Images</folder>
 	<filename>204.jpg</filename>
-	<path>204.jpg</path>
+	<path>/Users/griecov/SpanishNotaryCollection/dataset/Images/204.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -13,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>204-1</name>
+		<name>204_Copete_receipt</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -25,39 +24,207 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>204-2</name>
+		<name>204_Notificatio_name and place of residence of parties</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>3036</xmin>
 			<ymin>146</ymin>
-			<xmax>4769</xmax>
-			<ymax>944</ymax>
+			<xmax>4789</xmax>
+			<ymax>509</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>204-3</name>
+		<name>204_Dispositio</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2988</xmin>
+			<xmin>3053</xmin>
+			<ymin>492</ymin>
+			<xmax>4739</xmax>
+			<ymax>900</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>204_Asset, cloth, price, quantity</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3056</xmin>
 			<ymin>931</ymin>
-			<xmax>4673</xmax>
-			<ymax>1776</ymax>
+			<xmax>4426</xmax>
+			<ymax>1087</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>204-4</name>
+		<name>204_Asset, cloth, price, quantity</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2965</xmin>
-			<ymin>1763</ymin>
-			<xmax>4757</xmax>
-			<ymax>3071</ymax>
+			<xmin>3067</xmin>
+			<ymin>1904</ymin>
+			<xmax>4488</xmax>
+			<ymax>2004</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>204_Asset, cloth, price, quantity</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3074</xmin>
+			<ymin>1434</ymin>
+			<xmax>4472</xmax>
+			<ymax>1599</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>204_Asset, socks, price, quantity</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3064</xmin>
+			<ymin>1611</ymin>
+			<xmax>4484</xmax>
+			<ymax>1746</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>204_Asset, socks, price, quantity</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3055</xmin>
+			<ymin>1758</ymin>
+			<xmax>4484</xmax>
+			<ymax>1885</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>204_Asset, cloth, price, quantity</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3079</xmin>
+			<ymin>2096</ymin>
+			<xmax>4495</xmax>
+			<ymax>2193</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>204_Asset, cloth, price, quantity</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3066</xmin>
+			<ymin>1973</ymin>
+			<xmax>4472</xmax>
+			<ymax>2107</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>204_Asset, cloth, price, quantity</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3060</xmin>
+			<ymin>1261</ymin>
+			<xmax>4465</xmax>
+			<ymax>1431</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>204_Asset, cloth, price, quantity</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3073</xmin>
+			<ymin>1100</ymin>
+			<xmax>4457</xmax>
+			<ymax>1254</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>204_Asset, silk, price, quantity</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3050</xmin>
+			<ymin>2192</ymin>
+			<xmax>4499</xmax>
+			<ymax>2320</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>204_Asset, silk socks, price, quantity</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3096</xmin>
+			<ymin>2523</ymin>
+			<xmax>4499</xmax>
+			<ymax>2654</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>204_Asset, silk, price, quantity</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3068</xmin>
+			<ymin>2334</ymin>
+			<xmax>4492</xmax>
+			<ymax>2507</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>204_Asset, needles, price, quantity</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3048</xmin>
+			<ymin>2673</ymin>
+			<xmax>4480</xmax>
+			<ymax>2846</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>204_Asset, shawl, price, quantity</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3024</xmin>
+			<ymin>2846</ymin>
+			<xmax>4488</xmax>
+			<ymax>2917</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>204_Asset, cloth, price, quantity</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3013</xmin>
+			<ymin>2928</ymin>
+			<xmax>4495</xmax>
+			<ymax>3081</ymax>
 		</bndbox>
 	</object>
 </annotation>

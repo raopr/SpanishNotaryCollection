@@ -1,8 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
 <annotation>
-	<folder>SPANRTD_Images</folder>
+	<folder>Images</folder>
 	<filename>103.jpg</filename>
-	<path>103.jpg</path>
+	<path>/Users/griecov/SpanishNotaryCollection/dataset/Images/103.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -13,27 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>R38,Img103_1</name>
+		<name>R38,Img103_Binding clause</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>823</xmin>
 			<ymin>182</ymin>
-			<xmax>2488</xmax>
-			<ymax>818</ymax>
+			<xmax>2493</xmax>
+			<ymax>693</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>R38,Img103_2</name>
+		<name>R38,Img103_Date and place</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>809</xmin>
-			<ymin>700</ymin>
-			<xmax>2491</xmax>
-			<ymax>1556</ymax>
+			<xmin>768</xmin>
+			<ymin>720</ymin>
+			<xmax>2449</xmax>
+			<ymax>1014</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -46,6 +45,30 @@
 			<ymin>1529</ymin>
 			<xmax>2494</xmax>
 			<ymax>1853</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img102_Reassurance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>806</xmin>
+			<ymin>1053</ymin>
+			<xmax>2534</xmax>
+			<ymax>1949</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img102_Signatures</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>908</xmin>
+			<ymin>1938</ymin>
+			<xmax>2488</xmax>
+			<ymax>2690</ymax>
 		</bndbox>
 	</object>
 </annotation>

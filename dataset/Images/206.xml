@@ -1,8 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
 <annotation>
-	<folder>images</folder>
+	<folder>Images</folder>
 	<filename>206.jpg</filename>
-	<path>206.jpg</path>
+	<path>/Users/griecov/SpanishNotaryCollection/dataset/Images/206.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -13,87 +12,195 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>206-1</name>
+		<name>206_Asset, iron hammer, price, quantity</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>771</xmin>
 			<ymin>253</ymin>
-			<xmax>2520</xmax>
-			<ymax>1996</ymax>
+			<xmax>2457</xmax>
+			<ymax>715</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>206-2-1</name>
+		<name>206_Binding clause</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>708</xmin>
-			<ymin>1978</ymin>
-			<xmax>2549</xmax>
-			<ymax>3108</ymax>
+			<xmin>738</xmin>
+			<ymin>1423</ymin>
+			<xmax>2517</xmax>
+			<ymax>1993</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>206-2-2</name>
+		<name>206_Binding clause</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>2961</xmin>
 			<ymin>206</ymin>
-			<xmax>4645</xmax>
-			<ymax>335</ymax>
+			<xmax>4659</xmax>
+			<ymax>670</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>206-2-3</name>
+		<name>206_Validation</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2937</xmin>
-			<ymin>324</ymin>
-			<xmax>3378</xmax>
-			<ymax>400</ymax>
+			<xmin>2981</xmin>
+			<ymin>1210</ymin>
+			<xmax>4676</xmax>
+			<ymax>1448</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>206-3-1</name>
+		<name>206_Date and place</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>3380</xmin>
-			<ymin>308</ymin>
-			<xmax>4655</xmax>
-			<ymax>416</ymax>
+			<xmin>2979</xmin>
+			<ymin>989</ymin>
+			<xmax>4685</xmax>
+			<ymax>1193</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>206-3-2</name>
+		<name>206_Disallowance</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2916</xmin>
-			<ymin>412</ymin>
-			<xmax>4688</xmax>
-			<ymax>1310</ymax>
+			<xmin>2958</xmin>
+			<ymin>672</ymin>
+			<xmax>4663</xmax>
+			<ymax>972</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>206-4</name>
+		<name>206_Validation</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2888</xmin>
-			<ymin>1169</ymin>
-			<xmax>4708</xmax>
-			<ymax>2096</ymax>
+			<xmin>2988</xmin>
+			<ymin>1454</ymin>
+			<xmax>4702</xmax>
+			<ymax>2030</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>206_Asset, iron bars, weight, quantity</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>793</xmin>
+			<ymin>730</ymin>
+			<xmax>2493</xmax>
+			<ymax>878</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>206_Asset, iron bars, weight, quantity</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>793</xmin>
+			<ymin>895</ymin>
+			<xmax>2493</xmax>
+			<ymax>1043</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>206_Asset, iron bars, weight, quantity</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>794</xmin>
+			<ymin>1067</ymin>
+			<xmax>2494</xmax>
+			<ymax>1215</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>206_Asset, iron bars, weight, quantity</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>805</xmin>
+			<ymin>1237</ymin>
+			<xmax>2511</xmax>
+			<ymax>1411</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>206_Disallowance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>802</xmin>
+			<ymin>2052</ymin>
+			<xmax>2515</xmax>
+			<ymax>2274</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>206_Binding clause</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>791</xmin>
+			<ymin>2285</ymin>
+			<xmax>2520</xmax>
+			<ymax>2550</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>206_Circumstance of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>785</xmin>
+			<ymin>2576</ymin>
+			<xmax>2513</xmax>
+			<ymax>2846</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>206_Circumstance of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>805</xmin>
+			<ymin>2842</ymin>
+			<xmax>2533</xmax>
+			<ymax>3112</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>206_Signatures</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2976</xmin>
+			<ymin>2039</ymin>
+			<xmax>4698</xmax>
+			<ymax>2815</ymax>
 		</bndbox>
 	</object>
 </annotation>

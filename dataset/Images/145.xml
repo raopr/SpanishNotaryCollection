@@ -1,8 +1,7 @@
-<?xml version='1.0' encoding='utf-8'?>
 <annotation>
-	<folder>images</folder>
+	<folder>Images</folder>
 	<filename>145.jpg</filename>
-	<path>145.jpg</path>
+	<path>/Users/griecov/SpanishNotaryCollection/dataset/Images/145.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -13,27 +12,51 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>145-1</name>
+		<name>145_Corroboratio</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>782</xmin>
 			<ymin>205</ymin>
-			<xmax>2579</xmax>
-			<ymax>1018</ymax>
+			<xmax>2516</xmax>
+			<ymax>834</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>145-2</name>
+		<name>145_Signatures</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>700</xmin>
-			<ymin>990</ymin>
-			<xmax>2585</xmax>
-			<ymax>1656</ymax>
+			<xmin>792</xmin>
+			<ymin>1624</ymin>
+			<xmax>2489</xmax>
+			<ymax>2497</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>145_Date and place</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>774</xmin>
+			<ymin>837</ymin>
+			<xmax>2513</xmax>
+			<ymax>1047</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>145_Corroboratio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>789</xmin>
+			<ymin>1061</ymin>
+			<xmax>2500</xmax>
+			<ymax>1539</ymax>
 		</bndbox>
 	</object>
 </annotation>
