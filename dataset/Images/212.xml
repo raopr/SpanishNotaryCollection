@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <annotation>
-	<folder>images</folder>
+	<folder>Images</folder>
 	<filename>212.jpg</filename>
 	<path>212.jpg</path>
 	<source>
@@ -13,79 +13,79 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>212-1</name>
+		<name>212_Scope of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>845</xmin>
+			<xmin>760</xmin>
 			<ymin>204</ymin>
-			<xmax>2508</xmax>
-			<ymax>1441</ymax>
+			<xmax>2507</xmax>
+			<ymax>527</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>212-1-2</name>
+		<name>212_Scope of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>822</xmin>
-			<ymin>1420</ymin>
-			<xmax>1682</xmax>
-			<ymax>1529</ymax>
+			<xmin>795</xmin>
+			<ymin>1134</ymin>
+			<xmax>2504</xmax>
+			<ymax>1469</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>212-2-1</name>
+		<name>212_Scope of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1712</xmin>
-			<ymin>1373</ymin>
-			<xmax>2529</xmax>
-			<ymax>1529</ymax>
+			<xmin>800</xmin>
+			<ymin>1477</ymin>
+			<xmax>2507</xmax>
+			<ymax>1804</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>212-2-2</name>
+		<name>212_Scope of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>808</xmin>
-			<ymin>1471</ymin>
-			<xmax>2573</xmax>
-			<ymax>2318</ymax>
+			<xmin>850</xmin>
+			<ymin>1809</ymin>
+			<xmax>2513</xmax>
+			<ymax>2036</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>212-2-3</name>
+		<name>212_Scope of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>912</xmin>
-			<ymin>2314</ymin>
-			<xmax>1727</xmax>
-			<ymax>2418</ymax>
+			<xmin>865</xmin>
+			<ymin>2052</ymin>
+			<xmax>2522</xmax>
+			<ymax>2398</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>212-3-1</name>
+		<name>212_Scope of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>922</xmin>
-			<ymin>2316</ymin>
-			<xmax>2569</xmax>
-			<ymax>3088</ymax>
+			<xmin>833</xmin>
+			<ymin>2404</ymin>
+			<xmax>2500</xmax>
+			<ymax>3029</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>212-3-2</name>
+		<name>212_Scope of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -97,39 +97,87 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>212-3-3</name>
+		<name>212_Scope of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2849</xmin>
-			<ymin>484</ymin>
-			<xmax>3582</xmax>
-			<ymax>590</ymax>
+			<xmin>2838</xmin>
+			<ymin>508</ymin>
+			<xmax>4651</xmax>
+			<ymax>989</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>212-4-1</name>
+		<name>212_Binding clause</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>3606</xmin>
-			<ymin>480</ymin>
-			<xmax>4573</xmax>
-			<ymax>586</ymax>
+			<xmin>2893</xmin>
+			<ymin>996</ymin>
+			<xmax>4622</xmax>
+			<ymax>1300</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>212-4-2</name>
+		<name>212_Date and place</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2861</xmin>
-			<ymin>559</ymin>
-			<xmax>4580</xmax>
-			<ymax>2292</ymax>
+			<xmin>2905</xmin>
+			<ymin>1322</ymin>
+			<xmax>4558</xmax>
+			<ymax>1582</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>212_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>753</xmin>
+			<ymin>542</ymin>
+			<xmax>2493</xmax>
+			<ymax>1120</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>212_Reassurance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2876</xmin>
+			<ymin>1591</ymin>
+			<xmax>4587</xmax>
+			<ymax>1960</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>212_Validation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2880</xmin>
+			<ymin>1978</ymin>
+			<xmax>4600</xmax>
+			<ymax>2378</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>212_Signatures</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2916</xmin>
+			<ymin>2400</ymin>
+			<xmax>4596</xmax>
+			<ymax>3164</ymax>
 		</bndbox>
 	</object>
 </annotation>

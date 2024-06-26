@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <annotation>
-	<folder>SPANRTD_Images</folder>
+	<folder>Images</folder>
 	<filename>36.jpg</filename>
-	<path>36</path>
+	<path>36.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -13,67 +13,55 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>R38,Img36_1</name>
+		<name>R38,Img36_Asset party owes and mandate for repayment</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>663</xmin>
+			<xmin>610</xmin>
 			<ymin>152</ymin>
-			<xmax>2460</xmax>
-			<ymax>955</ymax>
+			<xmax>2463</xmax>
+			<ymax>644</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>R38,Img36_2</name>
+		<name>R38,Img36_Assets party owes and mandate for repayment</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>735</xmin>
-			<ymin>934</ymin>
-			<xmax>2446</xmax>
-			<ymax>1691</ymax>
+			<xmin>661</xmin>
+			<ymin>954</ymin>
+			<xmax>2457</xmax>
+			<ymax>1157</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>R38,Img36_3</name>
+		<name>R38,Img36_Partition of assets</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>785</xmin>
-			<ymin>1683</ymin>
-			<xmax>2417</xmax>
-			<ymax>2283</ymax>
+			<xmin>725</xmin>
+			<ymin>2280</ymin>
+			<xmax>2352</xmax>
+			<ymax>2589</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>R38,Img36_4</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>776</xmin>
-			<ymin>2283</ymin>
-			<xmax>2413</xmax>
-			<ymax>2604</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>R38,Img36_5</name>
+		<name>R38,Img36_Asset owed to party</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>781</xmin>
-			<ymin>2597</ymin>
+			<ymin>2598</ymin>
 			<xmax>2420</xmax>
-			<ymax>3044</ymax>
+			<ymax>3045</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>R38,Img36_6</name>
+		<name>R38,Img36_Asset owed to party and provision for collection</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -85,7 +73,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>R38,Img36_7</name>
+		<name>R38,Img36_Partition of assets to include illegitimate child</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -97,27 +85,111 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>R38,Img36_8</name>
+		<name>R38,Img36_Assets recieved by party via dowry</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>2986</xmin>
 			<ymin>1760</ymin>
-			<xmax>4683</xmax>
-			<ymax>2281</ymax>
+			<xmax>4695</xmax>
+			<ymax>2276</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>R38,Img36_9</name>
+		<name>R38,Img36_Lien party has on property and provision for payment</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2958</xmin>
-			<ymin>2274</ymin>
-			<xmax>4670</xmax>
-			<ymax>3126</ymax>
+			<xmin>2992</xmin>
+			<ymin>2282</ymin>
+			<xmax>4704</xmax>
+			<ymax>3134</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img36_Assets party owes and mandate for repayment</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>665</xmin>
+			<ymin>642</ymin>
+			<xmax>2491</xmax>
+			<ymax>956</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img36_Assets party owes and mandate for repayment</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>665</xmin>
+			<ymin>1148</ymin>
+			<xmax>2495</xmax>
+			<ymax>1361</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img36_Assets party owes and mandate for repayment</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>676</xmin>
+			<ymin>1473</ymin>
+			<xmax>2461</xmax>
+			<ymax>1669</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img36_Assets party owes and mandate for repayment</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>654</xmin>
+			<ymin>1346</ymin>
+			<xmax>2471</xmax>
+			<ymax>1476</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img36_Assets party owes and mandate for repayment</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>710</xmin>
+			<ymin>1671</ymin>
+			<xmax>2459</xmax>
+			<ymax>1812</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img36_Assets party owes and mandate for repayment</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>700</xmin>
+			<ymin>1765</ymin>
+			<xmax>2467</xmax>
+			<ymax>1908</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img36_Assets party owes and mandate for repayment</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>706</xmin>
+			<ymin>1892</ymin>
+			<xmax>2448</xmax>
+			<ymax>2259</ymax>
 		</bndbox>
 	</object>
 </annotation>

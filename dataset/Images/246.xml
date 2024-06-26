@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <annotation>
-	<folder>images</folder>
+	<folder>Images</folder>
 	<filename>246.jpg</filename>
 	<path>246.jpg</path>
 	<source>
@@ -13,7 +13,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>246-1</name>
+		<name>246_Copete_sale of slave</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -25,123 +25,183 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>246-2-1</name>
+		<name>246_Notificatio_name and place of residence of parties</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>804</xmin>
 			<ymin>146</ymin>
-			<xmax>2520</xmax>
-			<ymax>1480</ymax>
+			<xmax>2532</xmax>
+			<ymax>482</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>246-2-2</name>
+		<name>246_Dispositio</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>765</xmin>
-			<ymin>1500</ymin>
-			<xmax>1233</xmax>
-			<ymax>1608</ymax>
+			<xmin>854</xmin>
+			<ymin>495</ymin>
+			<xmax>2523</xmax>
+			<ymax>816</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>246-3-1</name>
+		<name>246_Name and place of residence of party</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1241</xmin>
-			<ymin>1457</ymin>
-			<xmax>2500</xmax>
-			<ymax>1588</ymax>
+			<xmin>840</xmin>
+			<ymin>832</ymin>
+			<xmax>2536</xmax>
+			<ymax>1541</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>246-3-2</name>
+		<name>246_Scope of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>726</xmin>
 			<ymin>1569</ymin>
-			<xmax>2554</xmax>
-			<ymax>2854</ymax>
+			<xmax>2545</xmax>
+			<ymax>1952</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>246-4-1</name>
+		<name>246_Binding clause</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>785</xmin>
-			<ymin>2836</ymin>
-			<xmax>2521</xmax>
-			<ymax>3141</ymax>
+			<xmin>772</xmin>
+			<ymin>1950</ymin>
+			<xmax>2543</xmax>
+			<ymax>2241</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>246-4-2</name>
+		<name>246_Date and place</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2913</xmin>
-			<ymin>144</ymin>
-			<xmax>4297</xmax>
-			<ymax>262</ymax>
+			<xmin>2895</xmin>
+			<ymin>164</ymin>
+			<xmax>4668</xmax>
+			<ymax>514</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>246-5-1</name>
+		<name>246_Validation</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>4318</xmin>
-			<ymin>123</ymin>
-			<xmax>4613</xmax>
-			<ymax>287</ymax>
+			<xmin>2909</xmin>
+			<ymin>518</ymin>
+			<xmax>4675</xmax>
+			<ymax>777</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>246-5-2</name>
+		<name>246_Validation</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2946</xmin>
-			<ymin>256</ymin>
-			<xmax>4654</xmax>
-			<ymax>1372</ymax>
+			<xmin>2959</xmin>
+			<ymin>769</ymin>
+			<xmax>4673</xmax>
+			<ymax>1093</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>246-6</name>
+		<name>246_Copete_promise of dowry</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>2556</xmin>
-			<ymin>2367</ymin>
+			<ymin>2371</ymin>
 			<xmax>3005</xmax>
-			<ymax>2695</ymax>
+			<ymax>2699</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>246-7</name>
+		<name>246_Notificatio_name and place or residence of parties</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2979</xmin>
-			<ymin>2256</ymin>
-			<xmax>4721</xmax>
-			<ymax>3149</ymax>
+			<xmin>3007</xmin>
+			<ymin>2264</ymin>
+			<xmax>4682</xmax>
+			<ymax>2577</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>246_Binding clause</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>797</xmin>
+			<ymin>2259</ymin>
+			<xmax>2523</xmax>
+			<ymax>2811</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>246_Disallowance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>782</xmin>
+			<ymin>2823</ymin>
+			<xmax>2548</xmax>
+			<ymax>3152</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>246_Validation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2948</xmin>
+			<ymin>1096</ymin>
+			<xmax>4684</xmax>
+			<ymax>1411</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>246_Signatures</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2900</xmin>
+			<ymin>1432</ymin>
+			<xmax>4723</xmax>
+			<ymax>2093</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>246_Expositio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3036</xmin>
+			<ymin>2589</ymin>
+			<xmax>4705</xmax>
+			<ymax>3089</ymax>
 		</bndbox>
 	</object>
 </annotation>

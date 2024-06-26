@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <annotation>
-	<folder>images</folder>
+	<folder>Images</folder>
 	<filename>210.jpg</filename>
 	<path>210.jpg</path>
 	<source>
@@ -13,19 +13,19 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>210-1</name>
+		<name>210_Binding clause</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>705</xmin>
 			<ymin>277</ymin>
-			<xmax>2505</xmax>
-			<ymax>1854</ymax>
+			<xmax>2498</xmax>
+			<ymax>804</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>210-2</name>
+		<name>210_Copete_manumission</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -37,51 +37,135 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>210-3-1</name>
+		<name>210_Date and place</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>2908</xmin>
 			<ymin>165</ymin>
+			<xmax>4658</xmax>
+			<ymax>427</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>210_Validation_name and residence of parties</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2929</xmin>
+			<ymin>429</ymin>
+			<xmax>4651</xmax>
+			<ymax>667</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>210_Expositio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2922</xmin>
+			<ymin>666</ymin>
+			<xmax>4598</xmax>
+			<ymax>1156</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>210_Expositio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2890</xmin>
+			<ymin>1169</ymin>
+			<xmax>4607</xmax>
+			<ymax>1442</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>210_Date and place</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>740</xmin>
+			<ymin>798</ymin>
+			<xmax>2496</xmax>
+			<ymax>1096</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>210_Reassurance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>784</xmin>
+			<ymin>1142</ymin>
+			<xmax>2520</xmax>
+			<ymax>1324</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>210_Validation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>796</xmin>
+			<ymin>1369</ymin>
+			<xmax>2504</xmax>
+			<ymax>1800</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>210_Signatures</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>776</xmin>
+			<ymin>1824</ymin>
+			<xmax>2549</xmax>
+			<ymax>2629</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>210_Disallowance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2889</xmin>
+			<ymin>1458</ymin>
 			<xmax>4596</xmax>
-			<ymax>1437</ymax>
+			<ymax>1947</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>210-3-2</name>
+		<name>210_Binding clause</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2886</xmin>
-			<ymin>1447</ymin>
-			<xmax>3769</xmax>
-			<ymax>1551</ymax>
+			<xmin>2878</xmin>
+			<ymin>2496</ymin>
+			<xmax>4607</xmax>
+			<ymax>2962</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>210-4-1</name>
+		<name>210_Scope of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>3802</xmin>
-			<ymin>1427</ymin>
-			<xmax>4557</xmax>
-			<ymax>1545</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>210-4-2</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2839</xmin>
-			<ymin>1533</ymin>
-			<xmax>4639</xmax>
-			<ymax>3033</ymax>
+			<xmin>2909</xmin>
+			<ymin>1956</ymin>
+			<xmax>4600</xmax>
+			<ymax>2471</ymax>
 		</bndbox>
 	</object>
 </annotation>

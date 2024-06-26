@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <annotation>
-	<folder>SPANRTD_Images</folder>
+	<folder>Images</folder>
 	<filename>30.jpg</filename>
-	<path>30</path>
+	<path>30.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -25,15 +25,15 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>R38,Img30_1</name>
+		<name>R38,Img30_Notificatio</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>3063</xmin>
-			<ymin>1833</ymin>
-			<xmax>4702</xmax>
-			<ymax>3035</ymax>
+			<xmin>3102</xmin>
+			<ymin>1815</ymin>
+			<xmax>4764</xmax>
+			<ymax>2175</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -44,56 +44,128 @@
 		<bndbox>
 			<xmin>412</xmin>
 			<ymin>152</ymin>
-			<xmax>906</xmax>
-			<ymax>626</ymax>
+			<xmax>850</xmax>
+			<ymax>622</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>R38,Img30_2</name>
+		<name>R38,Img30_Date and place</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>885</xmin>
-			<ymin>140</ymin>
-			<xmax>2451</xmax>
-			<ymax>915</ymax>
+			<ymin>202</ymin>
+			<xmax>2484</xmax>
+			<ymax>424</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>R38,Img30_3</name>
+		<name>R38,Img30_Dispositio</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>729</xmin>
-			<ymin>810</ymin>
-			<xmax>2479</xmax>
-			<ymax>2008</ymax>
+			<xmin>816</xmin>
+			<ymin>909</ymin>
+			<xmax>2462</xmax>
+			<ymax>1547</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>R38,Img30_4</name>
+		<name>R38,Img30_Binding Clause</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>647</xmin>
-			<ymin>1865</ymin>
-			<xmax>2470</xmax>
-			<ymax>3013</ymax>
+			<ymin>1549</ymin>
+			<xmax>2400</xmax>
+			<ymax>2729</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>R38,Img30_5</name>
+		<name>R38,Img30_Validatio</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>2967</xmin>
 			<ymin>165</ymin>
-			<xmax>4715</xmax>
-			<ymax>1728</ymax>
+			<xmax>4687</xmax>
+			<ymax>702</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img30_Validatio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>851</xmin>
+			<ymin>433</ymin>
+			<xmax>2502</xmax>
+			<ymax>898</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img30_Validatio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>693</xmin>
+			<ymin>2753</ymin>
+			<xmax>2418</xmax>
+			<ymax>3033</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img30_Circumstance of Deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3016</xmin>
+			<ymin>693</ymin>
+			<xmax>4727</xmax>
+			<ymax>1022</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img30_Signatures</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3053</xmin>
+			<ymin>1078</ymin>
+			<xmax>4733</xmax>
+			<ymax>1802</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img30_Dispositio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3124</xmin>
+			<ymin>2156</ymin>
+			<xmax>4716</xmax>
+			<ymax>2527</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img30_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3091</xmin>
+			<ymin>2544</ymin>
+			<xmax>4727</xmax>
+			<ymax>3020</ymax>
 		</bndbox>
 	</object>
 </annotation>

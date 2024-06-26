@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <annotation>
-	<folder>images</folder>
+	<folder>Images</folder>
 	<filename>199.jpg</filename>
 	<path>199.jpg</path>
 	<source>
@@ -13,7 +13,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>199-1</name>
+		<name>199_Copete_labor contract</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -25,27 +25,87 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>199-2</name>
+		<name>199_Date and place</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2886</xmin>
-			<ymin>210</ymin>
-			<xmax>4557</xmax>
-			<ymax>1478</ymax>
+			<xmin>2955</xmin>
+			<ymin>215</ymin>
+			<xmax>4552</xmax>
+			<ymax>461</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>199-3</name>
+		<name>199_Validation_name and circumstance of parties</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2818</xmin>
-			<ymin>1467</ymin>
-			<xmax>4620</xmax>
-			<ymax>3100</ymax>
+			<xmin>2843</xmin>
+			<ymin>482</ymin>
+			<xmax>4617</xmax>
+			<ymax>828</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>199_Expositio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2872</xmin>
+			<ymin>887</ymin>
+			<xmax>4572</xmax>
+			<ymax>1470</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>199_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2900</xmin>
+			<ymin>1480</ymin>
+			<xmax>4604</xmax>
+			<ymax>1728</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>199_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2916</xmin>
+			<ymin>1700</ymin>
+			<xmax>4622</xmax>
+			<ymax>1978</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>199_Amount of transaction</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2908</xmin>
+			<ymin>1989</ymin>
+			<xmax>4630</xmax>
+			<ymax>2378</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>199_Bining clause</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2926</xmin>
+			<ymin>2424</ymin>
+			<xmax>4628</xmax>
+			<ymax>3057</ymax>
 		</bndbox>
 	</object>
 </annotation>

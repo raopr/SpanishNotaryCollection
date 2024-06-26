@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <annotation>
-	<folder>images</folder>
+	<folder>Images</folder>
 	<filename>187.jpg</filename>
 	<path>187.jpg</path>
 	<source>
@@ -13,7 +13,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>187-1-1</name>
+		<name>187_Date and place</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -21,47 +21,47 @@
 			<xmin>805</xmin>
 			<ymin>182</ymin>
 			<xmax>2479</xmax>
-			<ymax>1146</ymax>
+			<ymax>600</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>187-1-2</name>
+		<name>187_Validatio</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>851</xmin>
-			<ymin>1141</ymin>
-			<xmax>1808</xmax>
-			<ymax>1264</ymax>
+			<xmin>802</xmin>
+			<ymin>630</ymin>
+			<xmax>2467</xmax>
+			<ymax>959</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>187-2-1</name>
+		<name>187_Validatio</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1821</xmin>
-			<ymin>1144</ymin>
-			<xmax>2449</xmax>
-			<ymax>1272</ymax>
+			<xmin>813</xmin>
+			<ymin>964</ymin>
+			<xmax>2459</xmax>
+			<ymax>1244</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>187-2-2</name>
+		<name>187_Validatio</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>769</xmin>
-			<ymin>1249</ymin>
-			<xmax>2523</xmax>
-			<ymax>1833</ymax>
+			<xmin>764</xmin>
+			<ymin>1246</ymin>
+			<xmax>2474</xmax>
+			<ymax>1822</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>187-3</name>
+		<name>187_Copete</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -73,27 +73,111 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>187-4</name>
+		<name>187_Notificatio_name and place of parties</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2972</xmin>
-			<ymin>113</ymin>
-			<xmax>4687</xmax>
-			<ymax>1526</ymax>
+			<xmin>3015</xmin>
+			<ymin>100</ymin>
+			<xmax>4707</xmax>
+			<ymax>521</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>187-5</name>
+		<name>187_Dispositio_name and circumstance of parties</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>3003</xmin>
-			<ymin>1421</ymin>
-			<xmax>4813</xmax>
-			<ymax>3141</ymax>
+			<xmin>2997</xmin>
+			<ymin>531</ymin>
+			<xmax>4697</xmax>
+			<ymax>1090</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>187_Signatures</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>733</xmin>
+			<ymin>1836</ymin>
+			<xmax>2495</xmax>
+			<ymax>2736</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>187_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3036</xmin>
+			<ymin>1149</ymin>
+			<xmax>4703</xmax>
+			<ymax>1349</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>187_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3015</xmin>
+			<ymin>1369</ymin>
+			<xmax>4741</xmax>
+			<ymax>1631</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>187_Scope of deed_assets_cattle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2987</xmin>
+			<ymin>1721</ymin>
+			<xmax>4690</xmax>
+			<ymax>2149</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>187_Scope of deed_assets</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3022</xmin>
+			<ymin>2180</ymin>
+			<xmax>4753</xmax>
+			<ymax>2357</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>187_Scope of deed_assets</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3033</xmin>
+			<ymin>2378</ymin>
+			<xmax>4673</xmax>
+			<ymax>2722</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>187_Scope of deed_and disallowance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3035</xmin>
+			<ymin>2747</ymin>
+			<xmax>4676</xmax>
+			<ymax>3000</ymax>
 		</bndbox>
 	</object>
 </annotation>

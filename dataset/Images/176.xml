@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <annotation>
-	<folder>images</folder>
+	<folder>Images</folder>
 	<filename>176.jpg</filename>
 	<path>176.jpg</path>
 	<source>
@@ -13,63 +13,219 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>176-1</name>
+		<name>176_Notificatio_name and place of residence of parties</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>846</xmin>
-			<ymin>208</ymin>
-			<xmax>2546</xmax>
-			<ymax>2235</ymax>
+			<xmin>871</xmin>
+			<ymin>149</ymin>
+			<xmax>2549</xmax>
+			<ymax>685</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>176-2</name>
+		<name>176_Scope of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>795</xmin>
-			<ymin>2218</ymin>
-			<xmax>2562</xmax>
-			<ymax>3126</ymax>
+			<xmin>811</xmin>
+			<ymin>1995</ymin>
+			<xmax>2532</xmax>
+			<ymax>2329</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>176-2-1</name>
+		<name>176_Scope of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>2910</xmin>
-			<ymin>233</ymin>
-			<xmax>3854</xmax>
-			<ymax>377</ymax>
+			<ymin>217</ymin>
+			<xmax>4608</xmax>
+			<ymax>539</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>176-3</name>
+		<name>176_Scope of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2815</xmin>
-			<ymin>344</ymin>
-			<xmax>4579</xmax>
-			<ymax>1833</ymax>
+			<xmin>2786</xmin>
+			<ymin>555</ymin>
+			<xmax>4624</xmax>
+			<ymax>858</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>176-4</name>
+		<name>176_Scope of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2779</xmin>
-			<ymin>1849</ymin>
-			<xmax>4656</xmax>
-			<ymax>3077</ymax>
+			<xmin>2777</xmin>
+			<ymin>868</ymin>
+			<xmax>4655</xmax>
+			<ymax>1039</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>176_Header</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>435</xmin>
+			<ymin>302</ymin>
+			<xmax>910</xmax>
+			<ymax>777</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>176_Dispositio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>889</xmin>
+			<ymin>700</ymin>
+			<xmax>2518</xmax>
+			<ymax>1076</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>176_Intitulatio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>847</xmin>
+			<ymin>1063</ymin>
+			<xmax>2534</xmax>
+			<ymax>1421</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>176_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>874</xmin>
+			<ymin>1453</ymin>
+			<xmax>2539</xmax>
+			<ymax>1729</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>176_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>850</xmin>
+			<ymin>1750</ymin>
+			<xmax>2542</xmax>
+			<ymax>1984</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>176_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>834</xmin>
+			<ymin>2339</ymin>
+			<xmax>2518</xmax>
+			<ymax>2600</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>176_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>913</xmin>
+			<ymin>2624</ymin>
+			<xmax>2537</xmax>
+			<ymax>2847</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>176_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>882</xmin>
+			<ymin>2876</ymin>
+			<xmax>2605</xmax>
+			<ymax>3068</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>176_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2826</xmin>
+			<ymin>1066</ymin>
+			<xmax>4663</xmax>
+			<ymax>1521</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>176_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2858</xmin>
+			<ymin>1571</ymin>
+			<xmax>4647</xmax>
+			<ymax>1832</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>176_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2926</xmin>
+			<ymin>1903</ymin>
+			<xmax>4542</xmax>
+			<ymax>2242</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>176_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2934</xmin>
+			<ymin>2297</ymin>
+			<xmax>4592</xmax>
+			<ymax>2629</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>176_Scope of deed_Disallowance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2889</xmin>
+			<ymin>2629</ymin>
+			<xmax>4634</xmax>
+			<ymax>3039</ymax>
 		</bndbox>
 	</object>
 </annotation>

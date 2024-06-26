@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <annotation>
-	<folder>images</folder>
+	<folder>Images</folder>
 	<filename>250.jpg</filename>
 	<path>250.jpg</path>
 	<source>
@@ -13,99 +13,147 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>250-1-1</name>
+		<name>250_Binding clause</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>722</xmin>
 			<ymin>214</ymin>
-			<xmax>2522</xmax>
-			<ymax>810</ymax>
+			<xmax>2507</xmax>
+			<ymax>484</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>250-1-2</name>
+		<name>250_Scope of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>753</xmin>
-			<ymin>804</ymin>
-			<xmax>1557</xmax>
-			<ymax>929</ymax>
+			<ymin>514</ymin>
+			<xmax>2505</xmax>
+			<ymax>784</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>250-2-1</name>
+		<name>250_Binding clause</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1596</xmin>
-			<ymin>788</ymin>
-			<xmax>2463</xmax>
-			<ymax>902</ymax>
+			<xmin>766</xmin>
+			<ymin>786</ymin>
+			<xmax>2489</xmax>
+			<ymax>1311</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>250-2-2</name>
+		<name>250_Scope of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>718</xmin>
-			<ymin>898</ymin>
-			<xmax>2471</xmax>
-			<ymax>1763</ymax>
+			<xmin>768</xmin>
+			<ymin>2045</ymin>
+			<xmax>2498</xmax>
+			<ymax>2507</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>250-3-1</name>
+		<name>250_Scope of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>996</xmin>
-			<ymin>1639</ymin>
+			<xmin>768</xmin>
+			<ymin>1302</ymin>
+			<xmax>2523</xmax>
+			<ymax>1657</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>250_Disallowance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>764</xmin>
+			<ymin>2518</ymin>
 			<xmax>2500</xmax>
-			<ymax>1776</ymax>
+			<ymax>2827</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>250-3-2</name>
+		<name>250_Binding clause</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>771</xmin>
-			<ymin>1724</ymin>
-			<xmax>2514</xmax>
-			<ymax>3112</ymax>
+			<xmin>778</xmin>
+			<ymin>1664</ymin>
+			<xmax>2511</xmax>
+			<ymax>2030</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>250-4-1</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>2298</xmin>
-			<ymin>2996</ymin>
-			<xmax>2576</xmax>
-			<ymax>3147</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>250-4-2</name>
+		<name>250_Validation</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>3047</xmin>
 			<ymin>178</ymin>
-			<xmax>4737</xmax>
-			<ymax>861</ymax>
+			<xmax>4793</xmax>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>250_Date and place</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>791</xmin>
+			<ymin>2852</ymin>
+			<xmax>2507</xmax>
+			<ymax>3107</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>250_Validation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3066</xmin>
+			<ymin>626</ymin>
+			<xmax>4812</xmax>
+			<ymax>846</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>250_Validation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3047</xmin>
+			<ymin>401</ymin>
+			<xmax>4793</xmax>
+			<ymax>621</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>250_Signatures</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3034</xmin>
+			<ymin>847</ymin>
+			<xmax>4795</xmax>
+			<ymax>1557</ymax>
 		</bndbox>
 	</object>
 </annotation>

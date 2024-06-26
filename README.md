@@ -1,4 +1,4 @@
-# SANR (17th Century American Spanish Notary Dataset)
+# SANRLite (17th Century American Spanish Notary Dataset)
 
 Large language models have gained tremendous popularity in domains such as ecommerce, finance, healthcare, and education. Finetuning is a common approach to customize an LLM on a domainspecific dataset for a desired downstream task. In this paper, we
 present a valuable resource for fine-tuning LLMs developed for the Spanish language to perform a variety of tasks such as classification, masked language modeling, clustering, and others. Our resource is a collection of handwritten notary records from the
@@ -6,6 +6,8 @@ seventeenth century obtained from the National Archives of Argentina. This colle
 and transcribed text (and metadata) of 160+ pages that were handwritten by two notaries, namely, Estenban Agreda de Vergara and
 Nicolas de Valdivia y Brisuela nearly 400 years ago. Through empirical evaluation, we demonstrate that our collection can be used to
 fine-tune Spanish LLMs for tasks such as classification and masked language modeling. 
+
+For further details, refer to our arXiv [pre-print](https://arxiv.org/pdf/2406.05812).
 
 # Table of Contents 
 

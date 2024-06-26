@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <annotation>
-	<folder>images</folder>
+	<folder>Images</folder>
 	<filename>178.jpg</filename>
 	<path>178.jpg</path>
 	<source>
@@ -13,99 +13,207 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>178-1</name>
+		<name>178_Scope of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>859</xmin>
-			<ymin>197</ymin>
-			<xmax>1282</xmax>
-			<ymax>362</ymax>
+			<xmin>863</xmin>
+			<ymin>215</ymin>
+			<xmax>2549</xmax>
+			<ymax>574</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>178-2</name>
+		<name>178_Scope of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>831</xmin>
-			<ymin>351</ymin>
-			<xmax>2551</xmax>
-			<ymax>1636</ymax>
+			<xmin>749</xmin>
+			<ymin>567</ymin>
+			<xmax>2510</xmax>
+			<ymax>1349</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>178-3</name>
+		<name>178_Scope of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>787</xmin>
-			<ymin>1638</ymin>
-			<xmax>2572</xmax>
-			<ymax>3062</ymax>
+			<ymin>1749</ymin>
+			<xmax>2578</xmax>
+			<ymax>2056</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>178-3-2</name>
+		<name>178_Scope of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>2908</xmin>
 			<ymin>205</ymin>
-			<xmax>3518</xmax>
-			<ymax>346</ymax>
+			<xmax>4587</xmax>
+			<ymax>416</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>178-4-2</name>
+		<name>178_Scope of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2849</xmin>
-			<ymin>333</ymin>
-			<xmax>4621</xmax>
-			<ymax>1003</ymax>
+			<xmin>2859</xmin>
+			<ymin>610</ymin>
+			<xmax>4595</xmax>
+			<ymax>989</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>178-4-1</name>
+		<name>178_Scope of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>3536</xmin>
-			<ymin>164</ymin>
-			<xmax>4585</xmax>
-			<ymax>331</ymax>
+			<xmin>2936</xmin>
+			<ymin>403</ymin>
+			<xmax>4582</xmax>
+			<ymax>624</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>178-5</name>
+		<name>178_Scope of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2877</xmin>
-			<ymin>1026</ymin>
-			<xmax>4631</xmax>
-			<ymax>1838</ymax>
+			<xmin>2882</xmin>
+			<ymin>976</ymin>
+			<xmax>4629</xmax>
+			<ymax>1458</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>178-6</name>
+		<name>178_Scope of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2795</xmin>
-			<ymin>1769</ymin>
-			<xmax>4703</xmax>
+			<xmin>2897</xmin>
+			<ymin>1482</ymin>
+			<xmax>4632</xmax>
+			<ymax>1726</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>178_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>731</xmin>
+			<ymin>1370</ymin>
+			<xmax>2567</xmax>
+			<ymax>1728</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>178_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>813</xmin>
+			<ymin>2088</ymin>
+			<xmax>2556</xmax>
+			<ymax>2360</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>178_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>867</xmin>
+			<ymin>2403</ymin>
+			<xmax>2535</xmax>
+			<ymax>2774</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>178_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>863</xmin>
+			<ymin>2806</ymin>
+			<xmax>2538</xmax>
+			<ymax>3042</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>178_Date and place</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2892</xmin>
+			<ymin>1744</ymin>
+			<xmax>4666</xmax>
+			<ymax>1934</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>178_Validatio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2895</xmin>
+			<ymin>1963</ymin>
+			<xmax>4679</xmax>
+			<ymax>2082</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>178_Validatio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2905</xmin>
+			<ymin>2074</ymin>
+			<xmax>4645</xmax>
+			<ymax>2308</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>178_Validatio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2895</xmin>
+			<ymin>2334</ymin>
+			<xmax>4637</xmax>
 			<ymax>2487</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>178_Sigantures</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2853</xmin>
+			<ymin>2466</ymin>
+			<xmax>4682</xmax>
+			<ymax>2976</ymax>
 		</bndbox>
 	</object>
 </annotation>

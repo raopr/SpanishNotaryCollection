@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <annotation>
-	<folder>images</folder>
+	<folder>Images</folder>
 	<filename>182.jpg</filename>
 	<path>182.jpg</path>
 	<source>
@@ -13,75 +13,159 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>182-1</name>
+		<name>182_Parties_scope of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>792</xmin>
 			<ymin>272</ymin>
-			<xmax>2446</xmax>
-			<ymax>1351</ymax>
+			<xmax>2433</xmax>
+			<ymax>633</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>182-2</name>
+		<name>182_Scope of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>697</xmin>
-			<ymin>1318</ymin>
-			<xmax>2467</xmax>
-			<ymax>2049</ymax>
+			<ymin>1349</ymin>
+			<xmax>2441</xmax>
+			<ymax>1708</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>182-3-1</name>
+		<name>182_Scope of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>649</xmin>
-			<ymin>2018</ymin>
-			<xmax>2467</xmax>
-			<ymax>3031</ymax>
+			<xmin>728</xmin>
+			<ymin>1728</ymin>
+			<xmax>2518</xmax>
+			<ymax>2057</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>182-3-2</name>
+		<name>182_Scope of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>3010</xmin>
 			<ymin>159</ymin>
-			<xmax>4692</xmax>
-			<ymax>444</ymax>
+			<xmax>4695</xmax>
+			<ymax>849</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>182-4</name>
+		<name>182_Scope of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2944</xmin>
-			<ymin>418</ymin>
-			<xmax>4759</xmax>
-			<ymax>1746</ymax>
+			<xmin>3008</xmin>
+			<ymin>846</ymin>
+			<xmax>4723</xmax>
+			<ymax>1254</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>182-5</name>
+		<name>182_Circumstance of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>3005</xmin>
-			<ymin>1751</ymin>
-			<xmax>4749</xmax>
-			<ymax>3133</ymax>
+			<xmin>3010</xmin>
+			<ymin>1262</ymin>
+			<xmax>4711</xmax>
+			<ymax>1760</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>182_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>790</xmin>
+			<ymin>685</ymin>
+			<xmax>2441</xmax>
+			<ymax>1038</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>182_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>805</xmin>
+			<ymin>1049</ymin>
+			<xmax>2449</xmax>
+			<ymax>1336</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>182_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>738</xmin>
+			<ymin>2074</ymin>
+			<xmax>2515</xmax>
+			<ymax>2364</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>182_Reassurance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>810</xmin>
+			<ymin>2372</ymin>
+			<xmax>2462</xmax>
+			<ymax>2603</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>182_Delegation of authority</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>815</xmin>
+			<ymin>2641</ymin>
+			<xmax>2405</xmax>
+			<ymax>2946</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>182_Dispositio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3010</xmin>
+			<ymin>1767</ymin>
+			<xmax>4721</xmax>
+			<ymax>2726</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>182_Description of asset</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3023</xmin>
+			<ymin>2736</ymin>
+			<xmax>4738</xmax>
+			<ymax>3021</ymax>
 		</bndbox>
 	</object>
 </annotation>

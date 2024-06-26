@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <annotation verified="yes">
-	<folder>SPANRTD_Images</folder>
+	<folder>Images</folder>
 	<filename>18.jpg</filename>
-	<path>18</path>
+	<path>18.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -13,7 +13,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>R38,Img18_Header</name>
+		<name>R38,Img18_Copete_Power of attorney</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -25,39 +25,111 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>R38,Img18_1</name>
+		<name>R38,Img18_Notificatio_name and place of residence of party</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1978</xmin>
-			<ymin>161</ymin>
-			<xmax>3643</xmax>
-			<ymax>872</ymax>
+			<xmin>1996</xmin>
+			<ymin>77</ymin>
+			<xmax>3596</xmax>
+			<ymax>371</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>R38,Img18_1_1</name>
+		<name>R38,Img18_Dispositio</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1822</xmin>
-			<ymin>752</ymin>
-			<xmax>3676</xmax>
-			<ymax>2230</ymax>
+			<xmin>1973</xmin>
+			<ymin>393</ymin>
+			<xmax>3683</xmax>
+			<ymax>849</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>R38,Img18_1_2</name>
+		<name>R38,Img18_Scope of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1826</xmin>
-			<ymin>2113</ymin>
-			<xmax>3661</xmax>
-			<ymax>3102</ymax>
+			<xmin>1863</xmin>
+			<ymin>856</ymin>
+			<xmax>3633</xmax>
+			<ymax>1177</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img18_Assets_jewelry_tobacco_cloth_honey</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1859</xmin>
+			<ymin>1175</ymin>
+			<xmax>3605</xmax>
+			<ymax>1655</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img18_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1858</xmin>
+			<ymin>1668</ymin>
+			<xmax>3605</xmax>
+			<ymax>2121</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img18_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1870</xmin>
+			<ymin>2876</ymin>
+			<xmax>3601</xmax>
+			<ymax>3202</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img18_Disallowance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1874</xmin>
+			<ymin>2439</ymin>
+			<xmax>3598</xmax>
+			<ymax>2664</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img18_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1864</xmin>
+			<ymin>2117</ymin>
+			<xmax>3614</xmax>
+			<ymax>2431</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img18_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1867</xmin>
+			<ymin>2650</ymin>
+			<xmax>3571</xmax>
+			<ymax>2869</ymax>
 		</bndbox>
 	</object>
 </annotation>

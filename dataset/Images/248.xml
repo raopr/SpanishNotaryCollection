@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <annotation>
-	<folder>images</folder>
+	<folder>Images</folder>
 	<filename>248.jpg</filename>
 	<path>248.jpg</path>
 	<source>
@@ -13,7 +13,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>248-1</name>
+		<name>248_Copete_power of attorney</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -25,27 +25,135 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>248-2</name>
+		<name>248_Notificatio_name and place of residence of parties</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>2959</xmin>
 			<ymin>103</ymin>
-			<xmax>4695</xmax>
-			<ymax>1413</ymax>
+			<xmax>4770</xmax>
+			<ymax>400</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>248-3</name>
+		<name>248_Dispositio</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2890</xmin>
-			<ymin>1385</ymin>
-			<xmax>4836</xmax>
-			<ymax>3085</ymax>
+			<xmin>2946</xmin>
+			<ymin>407</ymin>
+			<xmax>4773</xmax>
+			<ymax>1148</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>248_Reassurance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>789</xmin>
+			<ymin>136</ymin>
+			<xmax>2432</xmax>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>248_Validation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>775</xmin>
+			<ymin>414</ymin>
+			<xmax>2441</xmax>
+			<ymax>727</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>248_Signatures</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>755</xmin>
+			<ymin>793</ymin>
+			<xmax>2450</xmax>
+			<ymax>1475</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>248_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2968</xmin>
+			<ymin>1148</ymin>
+			<xmax>4720</xmax>
+			<ymax>1368</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>248_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2968</xmin>
+			<ymin>1370</ymin>
+			<xmax>4732</xmax>
+			<ymax>1764</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>248_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2982</xmin>
+			<ymin>1768</ymin>
+			<xmax>4755</xmax>
+			<ymax>2036</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>248_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2989</xmin>
+			<ymin>2048</ymin>
+			<xmax>4727</xmax>
+			<ymax>2286</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>248_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2987</xmin>
+			<ymin>2298</ymin>
+			<xmax>4736</xmax>
+			<ymax>2659</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>248_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3017</xmin>
+			<ymin>2675</ymin>
+			<xmax>4766</xmax>
+			<ymax>3036</ymax>
 		</bndbox>
 	</object>
 </annotation>

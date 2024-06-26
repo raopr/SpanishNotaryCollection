@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <annotation>
-	<folder>images</folder>
+	<folder>Images</folder>
 	<filename>183.jpg</filename>
 	<path>183.jpg</path>
 	<source>
@@ -13,51 +13,147 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>183-1</name>
+		<name>183_Description of asset</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>841</xmin>
 			<ymin>251</ymin>
-			<xmax>2441</xmax>
-			<ymax>1579</ymax>
+			<xmax>2421</xmax>
+			<ymax>805</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>183-2</name>
+		<name>183_Price of asset</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>797</xmin>
-			<ymin>1562</ymin>
-			<xmax>2538</xmax>
-			<ymax>3069</ymax>
+			<xmin>856</xmin>
+			<ymin>1258</ymin>
+			<xmax>2474</xmax>
+			<ymax>1656</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>183-3</name>
+		<name>183_Validatio</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>2931</xmin>
 			<ymin>221</ymin>
-			<xmax>4697</xmax>
-			<ymax>1636</ymax>
+			<xmax>4708</xmax>
+			<ymax>892</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>183-4</name>
+		<name>183_Reassurance and disallowance</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2877</xmin>
-			<ymin>1610</ymin>
-			<xmax>4738</xmax>
-			<ymax>3059</ymax>
+			<xmin>2934</xmin>
+			<ymin>905</ymin>
+			<xmax>4695</xmax>
+			<ymax>1718</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>183_Description of asset</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>851</xmin>
+			<ymin>818</ymin>
+			<xmax>2436</xmax>
+			<ymax>1067</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>183_Description of asset</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>864</xmin>
+			<ymin>1100</ymin>
+			<xmax>2464</xmax>
+			<ymax>1249</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>183_Type of transaction_lien</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>879</xmin>
+			<ymin>1682</ymin>
+			<xmax>2492</xmax>
+			<ymax>2082</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>183_Type of transaction_lien</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>864</xmin>
+			<ymin>2079</ymin>
+			<xmax>2510</xmax>
+			<ymax>2597</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>183_Expositio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>864</xmin>
+			<ymin>2628</ymin>
+			<xmax>2528</xmax>
+			<ymax>2956</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>183_Disallowance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2944</xmin>
+			<ymin>1659</ymin>
+			<xmax>4692</xmax>
+			<ymax>2136</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>183_Disallowance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2979</xmin>
+			<ymin>2349</ymin>
+			<xmax>4697</xmax>
+			<ymax>2651</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>183_Disallowance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2990</xmin>
+			<ymin>2708</ymin>
+			<xmax>4685</xmax>
+			<ymax>2979</ymax>
 		</bndbox>
 	</object>
 </annotation>

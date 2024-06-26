@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <annotation>
-	<folder>SPANRTD_Images</folder>
+	<folder>Images</folder>
 	<filename>20.jpg</filename>
-	<path>20</path>
+	<path>20.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -25,27 +25,99 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>R38,Img20_1_1</name>
+		<name>R38,Img20_Date&amp;Place</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>780</xmin>
 			<ymin>152</ymin>
-			<xmax>2449</xmax>
-			<ymax>2994</ymax>
+			<xmax>2418</xmax>
+			<ymax>484</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>R38,Img20_1_2</name>
+		<name>R38,Img20_Scope of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>3088</xmin>
-			<ymin>171</ymin>
-			<xmax>4792</xmax>
-			<ymax>2567</ymax>
+			<xmin>3078</xmin>
+			<ymin>164</ymin>
+			<xmax>4744</xmax>
+			<ymax>789</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img20_Validatio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>816</xmin>
+			<ymin>498</ymin>
+			<xmax>2398</xmax>
+			<ymax>711</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img20_Validatio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>847</xmin>
+			<ymin>727</ymin>
+			<xmax>2416</xmax>
+			<ymax>1387</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img20_Dissalowance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>829</xmin>
+			<ymin>1404</ymin>
+			<xmax>2429</xmax>
+			<ymax>2613</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img20_Scope of deed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>836</xmin>
+			<ymin>2627</ymin>
+			<xmax>2451</xmax>
+			<ymax>3018</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img20_Binding Clause</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3136</xmin>
+			<ymin>782</ymin>
+			<xmax>4716</xmax>
+			<ymax>1573</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img20_Disallowance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3131</xmin>
+			<ymin>1598</ymin>
+			<xmax>4751</xmax>
+			<ymax>2538</ymax>
 		</bndbox>
 	</object>
 </annotation>

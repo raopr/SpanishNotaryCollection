@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <annotation>
-	<folder>images</folder>
+	<folder>Images</folder>
 	<filename>235.jpg</filename>
 	<path>235.jpg</path>
 	<source>
@@ -13,99 +13,171 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>235-1-1</name>
+		<name>235_Validation</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>857</xmin>
 			<ymin>206</ymin>
-			<xmax>2555</xmax>
-			<ymax>1676</ymax>
+			<xmax>2517</xmax>
+			<ymax>363</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>235-2-1</name>
+		<name>235_Date and place</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>804</xmin>
-			<ymin>1667</ymin>
-			<xmax>2514</xmax>
-			<ymax>3124</ymax>
+			<xmin>881</xmin>
+			<ymin>363</ymin>
+			<xmax>2555</xmax>
+			<ymax>506</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>235-2-2</name>
+		<name>235_Reassurance</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>2906</xmin>
 			<ymin>169</ymin>
-			<xmax>4604</xmax>
-			<ymax>337</ymax>
+			<xmax>4686</xmax>
+			<ymax>544</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>235-2-3</name>
+		<name>235_Description of asset_landholding</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2973</xmin>
-			<ymin>304</ymin>
-			<xmax>3561</xmax>
-			<ymax>396</ymax>
+			<xmin>2923</xmin>
+			<ymin>553</ymin>
+			<xmax>4683</xmax>
+			<ymax>1132</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>235-3-1</name>
+		<name>235_Description of asset_cattle_slaves</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>3571</xmin>
-			<ymin>267</ymin>
-			<xmax>4616</xmax>
-			<ymax>410</ymax>
+			<xmin>2998</xmin>
+			<ymin>1515</ymin>
+			<xmax>4728</xmax>
+			<ymax>1946</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>235-3-2</name>
+		<name>235_Binding clause</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2910</xmin>
-			<ymin>345</ymin>
-			<xmax>4712</xmax>
-			<ymax>1622</ymax>
+			<xmin>3002</xmin>
+			<ymin>1959</ymin>
+			<xmax>4757</xmax>
+			<ymax>2755</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>235-4-1</name>
+		<name>235_Binding clause</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>3569</xmin>
-			<ymin>1465</ymin>
-			<xmax>4667</xmax>
-			<ymax>1633</ymax>
+			<xmin>2992</xmin>
+			<ymin>2760</ymin>
+			<xmax>4686</xmax>
+			<ymax>3218</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>235-4-2</name>
+		<name>235_Reassurance</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2927</xmin>
-			<ymin>1561</ymin>
-			<xmax>4751</xmax>
-			<ymax>3118</ymax>
+			<xmin>859</xmin>
+			<ymin>503</ymin>
+			<xmax>2539</xmax>
+			<ymax>732</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>235_Expositio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>859</xmin>
+			<ymin>801</ymin>
+			<xmax>2528</xmax>
+			<ymax>1159</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>235_Validation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>857</xmin>
+			<ymin>1203</ymin>
+			<xmax>2535</xmax>
+			<ymax>1523</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>235_Validation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>852</xmin>
+			<ymin>1541</ymin>
+			<xmax>2539</xmax>
+			<ymax>1694</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>235_Dispositio_names of parties</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>848</xmin>
+			<ymin>1699</ymin>
+			<xmax>2539</xmax>
+			<ymax>2810</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>235_Penalty</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>841</xmin>
+			<ymin>2828</ymin>
+			<xmax>2523</xmax>
+			<ymax>3114</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>235_Description of asset_landholding</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2921</xmin>
+			<ymin>1135</ymin>
+			<xmax>4748</xmax>
+			<ymax>1523</ymax>
 		</bndbox>
 	</object>
 </annotation>

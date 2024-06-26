@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <annotation>
-	<folder>SPANRTD_Images</folder>
+	<folder>Images</folder>
 	<filename>22.jpg</filename>
-	<path>22</path>
+	<path>22.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -19,25 +19,25 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>318</xmin>
-			<ymin>1193</ymin>
-			<xmax>749</xmax>
-			<ymax>1577</ymax>
+			<ymin>1197</ymin>
+			<xmax>744</xmax>
+			<ymax>1571</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>R38,Img22_1</name>
+		<name>R38,Img22_Date&amp;Place</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>670</xmin>
-			<ymin>1120</ymin>
-			<xmax>2445</xmax>
-			<ymax>2476</ymax>
+			<xmin>751</xmin>
+			<ymin>1176</ymin>
+			<xmax>2391</xmax>
+			<ymax>1369</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>R38,Img22_1_1</name>
+		<name>R38,Img22_Notificatio</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -49,27 +49,51 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>R38,Img22_1_2</name>
+		<name>R38,Img22_Dispositio</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2911</xmin>
+			<xmin>2876</xmin>
 			<ymin>135</ymin>
 			<xmax>4741</xmax>
-			<ymax>1546</ymax>
+			<ymax>831</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>R38,Img22_1_3</name>
+		<name>R38,Img22_Scope of Deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2915</xmin>
-			<ymin>1435</ymin>
-			<xmax>4737</xmax>
-			<ymax>2976</ymax>
+			<xmin>2877</xmin>
+			<ymin>839</ymin>
+			<xmax>4731</xmax>
+			<ymax>2200</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img22_Certificatio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>747</xmin>
+			<ymin>1360</ymin>
+			<xmax>2464</xmax>
+			<ymax>2451</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>R38,Img22_Certificatio</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2920</xmin>
+			<ymin>2233</ymin>
+			<xmax>4802</xmax>
+			<ymax>2956</ymax>
 		</bndbox>
 	</object>
 </annotation>

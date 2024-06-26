@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <annotation>
-	<folder>images</folder>
+	<folder>Images</folder>
 	<filename>201.jpg</filename>
 	<path>201.jpg</path>
 	<source>
@@ -13,55 +13,55 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>201-1</name>
+		<name>201_Expositio</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>833</xmin>
-			<ymin>233</ymin>
-			<xmax>2500</xmax>
-			<ymax>1237</ymax>
+			<xmin>726</xmin>
+			<ymin>270</ymin>
+			<xmax>2522</xmax>
+			<ymax>1301</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>201-1-2</name>
+		<name>201_Scope of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>798</xmin>
-			<ymin>1212</ymin>
-			<xmax>1249</xmax>
-			<ymax>1333</ymax>
+			<xmin>755</xmin>
+			<ymin>1315</ymin>
+			<xmax>2511</xmax>
+			<ymax>1640</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>201-2-1</name>
+		<name>201_Circumstance of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1263</xmin>
-			<ymin>1206</ymin>
-			<xmax>2490</xmax>
-			<ymax>1349</ymax>
+			<xmin>820</xmin>
+			<ymin>1655</ymin>
+			<xmax>2510</xmax>
+			<ymax>2047</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>201-2-2</name>
+		<name>201_Validation</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>843</xmin>
-			<ymin>1318</ymin>
-			<xmax>2531</xmax>
-			<ymax>2637</ymax>
+			<xmin>829</xmin>
+			<ymin>2057</ymin>
+			<xmax>2469</xmax>
+			<ymax>2338</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>201-3</name>
+		<name>201_Copete_sale of property</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
@@ -73,51 +73,123 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>201-4</name>
+		<name>201_Notification_name and residence of parties</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>3014</xmin>
 			<ymin>157</ymin>
-			<xmax>4631</xmax>
-			<ymax>1226</ymax>
+			<xmax>4665</xmax>
+			<ymax>420</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>201-5-1</name>
+		<name>201_Dispositio</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>4316</xmin>
-			<ymin>1072</ymin>
-			<xmax>4674</xmax>
-			<ymax>1182</ymax>
+			<xmin>3045</xmin>
+			<ymin>415</ymin>
+			<xmax>4670</xmax>
+			<ymax>781</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>201-5-2</name>
+		<name>201_Qualities of asset_property</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2994</xmin>
-			<ymin>1173</ymin>
-			<xmax>4784</xmax>
-			<ymax>2102</ymax>
+			<xmin>2986</xmin>
+			<ymin>787</ymin>
+			<xmax>4701</xmax>
+			<ymax>1208</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>201-6</name>
+		<name>201_Value of asset</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2961</xmin>
-			<ymin>2035</ymin>
-			<xmax>4792</xmax>
-			<ymax>3110</ymax>
+			<xmin>2995</xmin>
+			<ymin>2071</ymin>
+			<xmax>4722</xmax>
+			<ymax>2372</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>201_Reassurance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>828</xmin>
+			<ymin>2367</ymin>
+			<xmax>2478</xmax>
+			<ymax>2594</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>201_Signatures</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>785</xmin>
+			<ymin>2619</ymin>
+			<xmax>2503</xmax>
+			<ymax>3213</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>201_Qualities of asset_property</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2982</xmin>
+			<ymin>1229</ymin>
+			<xmax>4697</xmax>
+			<ymax>1650</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>201_Qualities of asset_property</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3017</xmin>
+			<ymin>1662</ymin>
+			<xmax>4732</xmax>
+			<ymax>2083</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>201_Disallowance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3015</xmin>
+			<ymin>2378</ymin>
+			<xmax>4719</xmax>
+			<ymax>2656</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>201_Validation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3013</xmin>
+			<ymin>2672</ymin>
+			<xmax>4712</xmax>
+			<ymax>3097</ymax>
 		</bndbox>
 	</object>
 </annotation>

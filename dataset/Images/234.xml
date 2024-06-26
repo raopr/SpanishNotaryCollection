@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <annotation>
-	<folder>images</folder>
+	<folder>Images</folder>
 	<filename>234.jpg</filename>
 	<path>234.jpg</path>
 	<source>
@@ -13,147 +13,147 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>234-1-1</name>
+		<name>234_Expositio</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>784</xmin>
 			<ymin>153</ymin>
-			<xmax>2482</xmax>
-			<ymax>1224</ymax>
+			<xmax>2500</xmax>
+			<ymax>953</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>234-1-2</name>
+		<name>234_Scope of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>765</xmin>
-			<ymin>1210</ymin>
-			<xmax>1300</xmax>
-			<ymax>1308</ymax>
+			<xmin>787</xmin>
+			<ymin>952</ymin>
+			<xmax>2518</xmax>
+			<ymax>1253</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>234-2-1</name>
+		<name>234_Expositio</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1390</xmin>
-			<ymin>1212</ymin>
-			<xmax>2469</xmax>
-			<ymax>1322</ymax>
+			<xmin>778</xmin>
+			<ymin>1253</ymin>
+			<xmax>2544</xmax>
+			<ymax>1984</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>234-2-2</name>
+		<name>234_Amout involved</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>773</xmin>
-			<ymin>1306</ymin>
-			<xmax>2516</xmax>
-			<ymax>2167</ymax>
+			<xmin>804</xmin>
+			<ymin>2203</ymin>
+			<xmax>2529</xmax>
+			<ymax>2478</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>234-2-3</name>
+		<name>234_Scope of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>818</xmin>
-			<ymin>2165</ymin>
-			<xmax>1086</xmax>
-			<ymax>2251</ymax>
+			<xmin>793</xmin>
+			<ymin>2002</ymin>
+			<xmax>2522</xmax>
+			<ymax>2191</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>234-3-1</name>
+		<name>234_Description of asset_landholding</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1104</xmin>
-			<ymin>2155</ymin>
-			<xmax>2492</xmax>
-			<ymax>2271</ymax>
+			<xmin>817</xmin>
+			<ymin>2487</ymin>
+			<xmax>2536</xmax>
+			<ymax>3082</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>234-3-2</name>
+		<name>234_Description of asset_landholding</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>780</xmin>
-			<ymin>2249</ymin>
-			<xmax>2486</xmax>
-			<ymax>3098</ymax>
+			<xmin>2920</xmin>
+			<ymin>218</ymin>
+			<xmax>4696</xmax>
+			<ymax>789</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>234-3-3</name>
+		<name>234_Scope of deed</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2918</xmin>
-			<ymin>178</ymin>
-			<xmax>4608</xmax>
-			<ymax>351</ymax>
+			<xmin>2913</xmin>
+			<ymin>1213</ymin>
+			<xmax>4731</xmax>
+			<ymax>1691</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>234-3-4</name>
+		<name>234_Description of asset_cattle_slaves</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2892</xmin>
-			<ymin>324</ymin>
-			<xmax>3622</xmax>
-			<ymax>404</ymax>
+			<xmin>2944</xmin>
+			<ymin>800</ymin>
+			<xmax>4718</xmax>
+			<ymax>1218</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>234-4-1</name>
+		<name>234_Date and place</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>3657</xmin>
-			<ymin>278</ymin>
-			<xmax>4645</xmax>
-			<ymax>408</ymax>
+			<xmin>3000</xmin>
+			<ymin>1718</ymin>
+			<xmax>4731</xmax>
+			<ymax>1913</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>234-4-2</name>
+		<name>234_Validation</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2859</xmin>
-			<ymin>355</ymin>
-			<xmax>4702</xmax>
-			<ymax>1784</ymax>
+			<xmin>3027</xmin>
+			<ymin>1891</ymin>
+			<xmax>4747</xmax>
+			<ymax>2802</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>234-5-1</name>
+		<name>234_Reassurance</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>2943</xmin>
-			<ymin>1714</ymin>
-			<xmax>4745</xmax>
-			<ymax>3118</ymax>
+			<xmin>3020</xmin>
+			<ymin>2798</ymin>
+			<xmax>4716</xmax>
+			<ymax>3076</ymax>
 		</bndbox>
 	</object>
 </annotation>

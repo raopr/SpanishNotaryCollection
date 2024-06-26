@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <annotation>
-	<folder>images</folder>
+	<folder>Images</folder>
 	<filename>203.jpg</filename>
 	<path>203.jpg</path>
 	<source>
@@ -13,15 +13,51 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>203-1</name>
+		<name>203_Disallowance</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>790</xmin>
 			<ymin>162</ymin>
-			<xmax>2536</xmax>
-			<ymax>1356</ymax>
+			<xmax>2552</xmax>
+			<ymax>583</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>203_Validation</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>812</xmin>
+			<ymin>588</ymin>
+			<xmax>2587</xmax>
+			<ymax>852</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>202_Reassurance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>833</xmin>
+			<ymin>893</ymin>
+			<xmax>2563</xmax>
+			<ymax>1293</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>202_Signatures</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>793</xmin>
+			<ymin>1337</ymin>
+			<xmax>2543</xmax>
+			<ymax>2370</ymax>
 		</bndbox>
 	</object>
 </annotation>
